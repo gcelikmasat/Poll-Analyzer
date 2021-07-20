@@ -1,0 +1,1455 @@
+2021-02-06 17:09:11,703 - INFO - Started
+2021-02-06 17:09:11,704 - INFO -  Poll created:  created
+2021-02-06 17:09:11,704 - INFO -  Question created:  created
+2021-02-06 17:09:11,704 - INFO -  Question created: This is a small experiment about polling function created
+2021-02-06 17:09:11,704 - INFO -  Poll created: Poll_1Polling_experiment created
+2021-02-06 17:09:11,704 - INFO -  Question created: Do you like using ZOOM? created
+2021-02-06 17:09:11,704 - INFO -  Poll created: Poll_2About_Object_Oriented_Programming_1 created
+2021-02-06 17:09:11,704 - INFO -  Question created: If you use a Object Oriented programming language instead of procedural programming language in a large software project approach it will result in less lines of code (LOC) created
+2021-02-06 17:09:11,704 - INFO -  Question created: If you use a Object Oriented programming language instead of procedural programming language in a large software project approach the resulting software will be easier to maintain created
+2021-02-06 17:09:11,704 - INFO -  Question created: If you use a Object Oriented programming language instead of procedural programming language in a large software project, the resulting software will be easier to change created
+2021-02-06 17:09:11,704 - INFO -  Question created: If you use a Object Oriented programming language instead of procedural programming language in a large software project approach, the resulting software will be easier to extend by adding new features based on new requirements created
+2021-02-06 17:09:11,704 - INFO -  Question created: If you use a Object Oriented programming language instead of procedural programming language in a large software project , it will be easier to adapt changes in requirements during the project created
+2021-02-06 17:09:11,704 - INFO -  Poll created: Poll_3About_Object_Oriented_Programming_2 created
+2021-02-06 17:09:11,704 - INFO -  Question created: If you use a Object Oriented programming language instead of procedural programming language in a large software project approach, it will be easier to fix bugs in the resulting software created
+2021-02-06 17:09:11,704 - INFO -  Poll created: Poll_4Week_3 created
+2021-02-06 17:09:11,704 - INFO -  Question created: The result of a project is a collection of artifacts created
+2021-02-06 17:09:11,704 - INFO -  Question created: Which one is not a usual software development activity? created
+2021-02-06 17:09:11,704 - INFO -  Question created: SMART projects are .. created
+2021-02-06 17:09:11,705 - INFO -  Question created: Based on the Parkinsonâ€™s law we can conclude that.. created
+2021-02-06 17:09:11,705 - INFO -  Question created: Which software development process is NOT a iterative and evolutionary model? created
+2021-02-06 17:09:11,705 - INFO -  Question created: Pair programming is an important aspect of the XP model created
+2021-02-06 17:09:11,705 - INFO -  Question created: The order of activities in SCRUM is analysis, design, testing, coding created
+2021-02-06 17:09:11,705 - INFO -  Poll created: Poll_5W4-1_Soft._Dev._Activities created
+2021-02-06 17:09:11,705 - INFO -  Question created: In SCRUM model a Sprint is .. created
+2021-02-06 17:09:11,705 - INFO -  Question created: In OO paradigm, data abstractions created
+2021-02-06 17:09:11,705 - INFO -  Question created: OO is an approach to solve problems using a software where all computations are performed in the context of objects created
+2021-02-06 17:09:11,705 - INFO -  Question created: The attributes (variables) of an object represent its state created
+2021-02-06 17:09:11,705 - INFO -  Question created: If you change the value of a public class attribute of an object, state of the object will change created
+2021-02-06 17:09:11,705 - INFO -  Poll created: Poll_6W4-2_OO created
+2021-02-06 17:09:11,705 - INFO -  Question created: If you change the value of a private class attribute of an object via a public setter method, state of the object will change created
+2021-02-06 17:09:11,705 - INFO -  Question created: Based on the Java naming convention, which one is a good name for a class ? created
+2021-02-06 17:09:11,705 - INFO -  Question created: An object variable such as "Student activeStudent" may refer to different objects at different points in time created
+2021-02-06 17:09:11,705 - INFO -  Question created: ... created
+2021-02-06 17:09:11,705 - INFO -  Poll created: Poll_7W4-3_OO created
+2021-02-06 17:09:11,705 - INFO -  Question created: Which one is not a required property of OO languages? created
+2021-02-06 17:09:11,705 - INFO -  Question created: Which of the the following is not necessary for a system or language to be OO? created
+2021-02-06 17:09:11,705 - INFO -  Question created: Dynamic Binding occurs when decision about which method to run can only be made at run time created
+2021-02-06 17:09:11,705 - INFO -  Question created: Dynamic binding happens when is more than one possible polymorphic method that could be run among the type of the variable and its subclasses created
+2021-02-06 17:09:11,706 - INFO -  Question created: Dynamic binding is directly related to the polymorphism created
+2021-02-06 17:09:11,706 - INFO -  Question created: We need to avoid switch-case / if-else statements to vary between different types created
+2021-02-06 17:09:11,706 - INFO -  Question created: For Polymorphism in Java we need to have at least an abstract method in an abstract class and several classes that inherits from this abstract class by implementing the abstract method in different ways created
+2021-02-06 17:09:11,706 - INFO -  Question created: For Polymorphism in Java we need to have at least an interface and several classes that implements this interface by by providing implementation to the polymorphic method in different ways created
+2021-02-06 17:09:11,706 - INFO -  Question created: In order to override a method it has to be abstract created
+2021-02-06 17:09:11,706 - INFO -  Question created: Abstract classes can be instantiated created
+2021-02-06 17:09:11,706 - INFO -  Poll created: Poll_8W5-1_OO created
+2021-02-06 17:09:11,706 - INFO -  Question created: You can never instantiate a class that inherits from abstract class created
+2021-02-06 17:09:11,706 - INFO -  Question created: There are two types of relationships in object oriented programming created
+2021-02-06 17:09:11,706 - INFO -  Question created: Has-a relation is implemented by using inheritance in OO programming created
+2021-02-06 17:09:11,706 - INFO -  Question created: Is-a relation is implemented by composition in OO programming created
+2021-02-06 17:09:11,706 - INFO -  Question created: In inheritance, private methods of the superclass is not included in the subclass created
+2021-02-06 17:09:11,706 - INFO -  Poll created: Poll_9W5-2_OO created
+2021-02-06 17:09:11,706 - INFO -  Question created: Account <- SavingsAccount example shows is-a relation created
+2021-02-06 17:09:11,706 - INFO -  Question created: Which of the following statement is true concerning objects and/or classes? created
+2021-02-06 17:09:11,706 - INFO -  Question created: A UML diagram includes which of the following? created
+2021-02-06 17:09:11,706 - INFO -  Question created: An abstract class is which of the following? created
+2021-02-06 17:09:11,706 - INFO -  Question created: Which one of the following explains the following statement? Same operation may apply to two or more classes created
+2021-02-06 17:09:11,706 - INFO -  Question created: Aggregation is which of the following? created
+2021-02-06 17:09:11,706 - INFO -  Question created: Composition is a stronger form of which of the following? created
+2021-02-06 17:09:11,706 - INFO -  Question created: Which one describes Waterfall? created
+2021-02-06 17:09:11,707 - INFO -  Question created: Which description is a best fit for Scrum? created
+2021-02-06 17:09:11,707 - INFO -  Question created: Which one is a best fit for iterative and evolutionary development life cycle like Unified Process (UP) ? created
+2021-02-06 17:09:11,707 - INFO -  Poll created: Poll_10W6-1_UML_Class_Diagrams created
+2021-02-06 17:09:11,707 - INFO -  Question created: The benefits of object-oriented modeling are which of the following? created
+2021-02-06 17:09:11,707 - INFO -  Question created: Which of the following is a technique for hiding the internal implementation details of an object? created
+2021-02-06 17:09:11,707 - INFO -  Question created: In Java primitive data types .. created
+2021-02-06 17:09:11,707 - INFO -  Question created: Which of the following statements about compositions (composite aggregations) are true? created
+2021-02-06 17:09:11,707 - INFO -  Question created: Association classes are used to .. created
+2021-02-06 17:09:11,707 - INFO -  Question created: How do you model the following situation with a UML class diagram: A season worker may be employed in one or several seasons the beginning and the end of each employment period is saved created
+2021-02-06 17:09:11,707 - INFO -  Question created: Which of the following differences between class diagrams and object diagrams are true? created
+2021-02-06 17:09:11,707 - INFO -  Question created: An aggregation is a special .. created
+2021-02-06 17:09:11,707 - INFO -  Question created: What is a synonym for strong aggregation? created
+2021-02-06 17:09:11,707 - INFO -  Question created: A class diagram shows .. created
+2021-02-06 17:09:11,707 - INFO -  Poll created: Poll_11W6-2_UML_Class created
+2021-02-06 17:09:11,707 - INFO -  Question created: How do you model the following situation: A doctor treats multiple patients a patient can be treated by multiple doctors created
+2021-02-06 17:09:11,707 - INFO -  Question created: Requirement Analysis is ... created
+2021-02-06 17:09:11,707 - INFO -  Question created: The goal in requirement analysis is .. created
+2021-02-06 17:09:11,707 - INFO -  Question created: Which one of the following is not a non-functional requirement category? created
+2021-02-06 17:09:11,707 - INFO -  Question created: In UP Use cases are created in .. created
+2021-02-06 17:09:11,708 - INFO -  Question created: Which one of the following is FALSE? created
+2021-02-06 17:09:11,708 - INFO -  Question created: A use case is a collection of success and failure scenarios describing an actor using a system to support a goal created
+2021-02-06 17:09:11,708 - INFO -  Question created: We should avoid implementation specific language in use cases and in requirement analysis such as IF-THEN-ELSE or GUI elements created
+2021-02-06 17:09:11,708 - INFO -  Question created: Use cases never initiate actions actors do and use case interaction produces something of value to an actor created
+2021-02-06 17:09:11,708 - INFO -  Question created: Which of the following is NOT an advantage of use cases? created
+2021-02-06 17:09:11,708 - INFO -  Poll created: Poll_13W8-1_Iteration_Artifacts created
+2021-02-06 17:09:11,708 - INFO -  Question created: Ranking of requirements is done before .. created
+2021-02-06 17:09:11,708 - INFO -  Question created: Usually first iteration implements core functionality created
+2021-02-06 17:09:11,708 - INFO -  Question created: High risk requirements are usually left to last iterations of the project in order to avoid delay in the project created
+2021-02-06 17:09:11,708 - INFO -  Question created: Which of the following is FALSE for Domain Model? created
+2021-02-06 17:09:11,708 - INFO -  Question created: In UML class diagram if a attribute or method name is underlined it means that attribute or method is abstract created
+2021-02-06 17:09:11,708 - INFO -  Question created: If a class is abstract it will not have any methods created
+2021-02-06 17:09:11,708 - INFO -  Question created: In UML Class diagram if a class is abstract its name is written in italic or followed by {abstract} keyword created
+2021-02-06 17:09:11,708 - INFO -  Question created: Interfaces do not include attributes created
+2021-02-06 17:09:11,708 - INFO -  Question created: Which of the following is used for dynamic modeling? created
+2021-02-06 17:09:11,708 - INFO -  Question created: In static model shows classes on the other dynamic model show objects in UML created
+2021-02-06 17:09:11,708 - INFO -  Poll created: Poll_14W8-2_Iteration_Artifacts created
+2021-02-06 17:09:11,708 - INFO -  Question created: In the design phase which UML diagram should be created first? created
+2021-02-06 17:09:11,708 - INFO -  Question created: Visibility is the ability of one object to see another to send a message created
+2021-02-06 17:09:11,708 - INFO -  Question created: To send a message from one object to another the receiver object must be visible to the sender via a reference created
+2021-02-06 17:09:11,708 - INFO -  Question created: Which one is not one of the visibility types? created
+2021-02-06 17:09:11,709 - INFO -  Question created: Which of the following is true for attribute visibility ? The ... created
+2021-02-06 17:09:11,709 - INFO -  Question created: In parameter visibility an object of receiver class must be a private attribute created
+2021-02-06 17:09:11,709 - INFO -  Question created: In parameter visibility an object of receiver class must be a public attribute created
+2021-02-06 17:09:11,709 - INFO -  Question created: Which one of the visibility types is most common in OO? created
+2021-02-06 17:09:11,709 - INFO -  Question created: Which one of the visibility types is least common in OO? created
+2021-02-06 17:09:11,709 - INFO -  Question created: Singleton design pattern is used to achieve .. created
+2021-02-06 17:09:11,709 - INFO -  Poll created:  created
+2021-02-06 17:09:11,709 - INFO -  Question created:  created
+2021-02-06 17:09:11,709 - INFO -  Poll created: Poll_1OOSD_Software_Activities created
+2021-02-06 17:09:11,709 - INFO -  Question created: Which one is the most important software development activity in you opinion? created
+2021-02-06 17:09:11,709 - INFO -  Question created: Which one is not correct for Java? created
+2021-02-06 17:09:11,709 - INFO -  Question created: Which one is false ? An abstract class can .. created
+2021-02-06 17:09:11,709 - INFO -  Question created: An UML class diagram is ... created
+2021-02-06 17:09:11,709 - INFO -  Question created: There are two types of relations between classes in object oriented programming created
+2021-02-06 17:09:11,709 - INFO -  Question created: There are two types of relations between classes in object oriented programming created
+2021-02-06 17:09:11,710 - INFO -  Question created: It is possible to call a private method of the superclass in the public method of the inherited class created
+2021-02-06 17:09:11,710 - INFO -  Question created: It is possible to call a private method of the superclass in the private method of the inherited class created
+2021-02-06 17:09:11,710 - INFO -  Question created: It is possible to call a protected method of the superclass in the public method of the inherited class created
+2021-02-06 17:09:11,710 - INFO -  Question created: It is possible to call a protected method of the superclass in the protected method of the inherited class created
+2021-02-06 17:09:11,710 - INFO -  Poll created: Poll_2W4-3_Object_Orientation created
+2021-02-06 17:09:11,710 - INFO -  Question created: It is possible to call a protected method of the superclass in the private method of the inherited class created
+2021-02-06 17:09:11,710 - INFO -  Question created: If you have following associations with given cardinalities between three classes which of the following will be true? Flat-1---*-LeasingContract-*---*-Tenant created
+2021-02-06 17:09:11,710 - INFO -  Question created: A composition (composite aggregation) may express .. created
+2021-02-06 17:09:11,710 - INFO -  Question created: How do you model the following situation with a UML class diagram: The car fleet of a car rental contains multiple cars, one car belongs to exactly one car fleet created
+2021-02-06 17:09:11,710 - INFO -  Question created: A generalization relationship between a subclass and a superclass in Java has the following property created
+2021-02-06 17:09:11,710 - INFO -  Question created: How do you model the following situation with a UML class diagram: During one soccer season multiple players participate in multiple games created
+2021-02-06 17:09:11,710 - INFO -  Question created: A class is divided into which of these compartments ? created
+2021-02-06 17:09:11,710 - INFO -  Question created: What is multiplicity for an association? created
+2021-02-06 17:09:11,710 - INFO -  Question created: Which among these are the rules to be considered to form UML Class diagrams? created
+2021-02-06 17:09:11,710 - INFO -  Question created: Which one is NOT true for UML? created
+2021-02-06 17:09:11,720 - INFO -  Student: ABBAS KUTAY created
+2021-02-06 17:09:11,720 - INFO -  Student: ABBAS GÖKTUĞ YILMAZ created
+2021-02-06 17:09:11,720 - INFO -  Student: ABDUL KERİM BOYACI created
+2021-02-06 17:09:11,721 - INFO -  Student: ABDULHALİK ŞENSİN created
+2021-02-06 17:09:11,721 - INFO -  Student: ABDULLAH CANSIZ created
+2021-02-06 17:09:11,721 - INFO -  Student: ABDULLAH EMRE AYDEMİR created
+2021-02-06 17:09:11,721 - INFO -  Student: ABDÜLKADİR ASLAN created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMAD ASAAD created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMED HAMİ ORAK created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET AKIL created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET GEZMİŞOĞLU created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET ÖNKOL created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET TURGUT created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET ÇAĞRI HODOĞLUGİL created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET ELBURUZ GÜRBÜZ created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET EMİRHAN BAKKAL created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET FARUK YILMAZ created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET FATİH YÜKSEL created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET FAZIL EMİR created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET HAKAN ŞİMŞEK created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET HAMZA DEMİR created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET HARUN TOKYER created
+2021-02-06 17:09:11,721 - INFO -  Student: AHMET KEREM AKPINAR created
+2021-02-06 17:09:11,722 - INFO -  Student: AHMET ONAT ÖZALAN created
+2021-02-06 17:09:11,722 - INFO -  Student: AHMET TAYYİB MENGÜÇ created
+2021-02-06 17:09:11,722 - INFO -  Student: ALI REZA IBRAHIMZADA created
+2021-02-06 17:09:11,722 - INFO -  Student: ALİ ÇETİNKAYA created
+2021-02-06 17:09:11,722 - INFO -  Student: ALİ ANIL REYHAN created
+2021-02-06 17:09:11,722 - INFO -  Student: ALİ BATUHAN YAMANARSLAN created
+2021-02-06 17:09:11,722 - INFO -  Student: ALİ BEYTULLAH ÖZKAN created
+2021-02-06 17:09:11,722 - INFO -  Student: ALİ ONUR ASLAN created
+2021-02-06 17:09:11,722 - INFO -  Student: ALPARSLAN KÖPRÜLÜ created
+2021-02-06 17:09:11,722 - INFO -  Student: ALPER DOKAY created
+2021-02-06 17:09:11,722 - INFO -  Student: ALPEREN KÖKER created
+2021-02-06 17:09:11,722 - INFO -  Student: ALPEREN KAĞAN KARA created
+2021-02-06 17:09:11,722 - INFO -  Student: AMELA KARMAJ created
+2021-02-06 17:09:11,722 - INFO -  Student: ANIL ŞENAY created
+2021-02-06 17:09:11,722 - INFO -  Student: ARDA YİĞİT KAYNAR created
+2021-02-06 17:09:11,722 - INFO -  Student: ASAF TALHA GÜLTEKİN created
+2021-02-06 17:09:11,722 - INFO -  Student: ASEM OKBY created
+2021-02-06 17:09:11,722 - INFO -  Student: AYBERK ÖMER ALTUNTABAK created
+2021-02-06 17:09:11,722 - INFO -  Student: AYÇA İDİL KAYA created
+2021-02-06 17:09:11,722 - INFO -  Student: AYDIN DUYGU created
+2021-02-06 17:09:11,723 - INFO -  Student: AYKUT BAŞYİĞİT created
+2021-02-06 17:09:11,723 - INFO -  Student: AYŞENUR KARAHASAN created
+2021-02-06 17:09:11,723 - INFO -  Student: BERAN EGE ŞENOL created
+2021-02-06 17:09:11,723 - INFO -  Student: BERK ENGİN created
+2021-02-06 17:09:11,723 - INFO -  Student: BERK YILDIZ created
+2021-02-06 17:09:11,723 - INFO -  Student: BERKAY DENİZ created
+2021-02-06 17:09:11,723 - INFO -  Student: BERKE ŞAHİN created
+2021-02-06 17:09:11,723 - INFO -  Student: BERRA MERCAN created
+2021-02-06 17:09:11,723 - INFO -  Student: BEYZA AYDOĞAN created
+2021-02-06 17:09:11,723 - INFO -  Student: BİLAL TAN created
+2021-02-06 17:09:11,723 - INFO -  Student: BİLGEHAN GEÇİCİ created
+2021-02-06 17:09:11,723 - INFO -  Student: BURAK FİDAN created
+2021-02-06 17:09:11,723 - INFO -  Student: BÜŞRA AĞDACI created
+2021-02-06 17:09:11,723 - INFO -  Student: BÜŞRA BÖREKCİ GÜRLER created
+2021-02-06 17:09:11,723 - INFO -  Student: CAFER SADIK YÜKSELOĞLU created
+2021-02-06 17:09:11,723 - INFO -  Student: CAN KARATEPE created
+2021-02-06 17:09:11,723 - INFO -  Student: CENK KAAN KANAR created
+2021-02-06 17:09:11,723 - INFO -  Student: ÇAĞATAY USLU created
+2021-02-06 17:09:11,723 - INFO -  Student: DIALA JASSEM MOHAMMAD BADER JUBEH DIALA JASSEM MOHAMMAD BADER JUBEH created
+2021-02-06 17:09:11,724 - INFO -  Student: DUYGU YASİNOĞLU created
+2021-02-06 17:09:11,724 - INFO -  Student: ECEM ÇEŞMECİLER created
+2021-02-06 17:09:11,724 - INFO -  Student: EDANUR ÖZTÜRK created
+2021-02-06 17:09:11,724 - INFO -  Student: EFE BERKE ERKESKİN created
+2021-02-06 17:09:11,724 - INFO -  Student: ELİF GÖKPINAR created
+2021-02-06 17:09:11,724 - INFO -  Student: EMİN KAĞAN KADIOĞLU created
+2021-02-06 17:09:11,724 - INFO -  Student: EMİN SAFA TOK created
+2021-02-06 17:09:11,724 - INFO -  Student: EMİR BUĞRA KILIÇ created
+2021-02-06 17:09:11,724 - INFO -  Student: EMRE OKUL created
+2021-02-06 17:09:11,724 - INFO -  Student: ENES GARİP created
+2021-02-06 17:09:11,724 - INFO -  Student: ENGİN BEKTAŞ created
+2021-02-06 17:09:11,724 - INFO -  Student: ERDEM AÇILDI created
+2021-02-06 17:09:11,724 - INFO -  Student: ERDEM AĞCA created
+2021-02-06 17:09:11,724 - INFO -  Student: ERHAN YALNIZ created
+2021-02-06 17:09:11,724 - INFO -  Student: ERMAN KUNDAKCIOĞLU created
+2021-02-06 17:09:11,724 - INFO -  Student: ESRAA ISMAIL TAHA TURKY ESRAA ISMAIL TAHA TURKY created
+2021-02-06 17:09:11,724 - INFO -  Student: EYMEN TOPÇUOĞLU created
+2021-02-06 17:09:11,724 - INFO -  Student: EYÜP ÖZKUL created
+2021-02-06 17:09:11,724 - INFO -  Student: EZGİ DOĞRUER created
+2021-02-06 17:09:11,724 - INFO -  Student: FAROUK TIJJANI MOHAMMED DERIBE created
+2021-02-06 17:09:11,725 - INFO -  Student: FATİH AKGÜNDÜZ created
+2021-02-06 17:09:11,725 - INFO -  Student: FATİH BAŞ created
+2021-02-06 17:09:11,725 - INFO -  Student: FATİH EMİN ÖGE created
+2021-02-06 17:09:11,725 - INFO -  Student: FATİH MURAT KARAKAYA created
+2021-02-06 17:09:11,725 - INFO -  Student: FEYZA NUR BULGURCU created
+2021-02-06 17:09:11,725 - INFO -  Student: FURKAN AKMAN created
+2021-02-06 17:09:11,725 - INFO -  Student: GÖKBERK ÇELİKMASAT created
+2021-02-06 17:09:11,725 - INFO -  Student: GÜNEŞ YÜZAK created
+2021-02-06 17:09:11,725 - INFO -  Student: HAFSA ULUSAL created
+2021-02-06 17:09:11,725 - INFO -  Student: HAKAN ÖZER created
+2021-02-06 17:09:11,725 - INFO -  Student: HALİL DEMİR created
+2021-02-06 17:09:11,725 - INFO -  Student: HAMZA TÜRKMEN created
+2021-02-06 17:09:11,725 - INFO -  Student: HARUN SARI created
+2021-02-06 17:09:11,725 - INFO -  Student: HASANCAN ÖZEN created
+2021-02-06 17:09:11,725 - INFO -  Student: HAYRULLAH ÇAĞIL created
+2021-02-06 17:09:11,725 - INFO -  Student: HAYTHAM ABDEL GHANI ABDEL NABI created
+2021-02-06 17:09:11,725 - INFO -  Student: HUZEYFE AYAZ created
+2021-02-06 17:09:11,725 - INFO -  Student: HÜSEYİN DEMİR created
+2021-02-06 17:09:11,725 - INFO -  Student: İNSAF ÖZGE BERKTAŞ created
+2021-02-06 17:09:11,725 - INFO -  Student: İREM SAYGİN created
+2021-02-06 17:09:11,726 - INFO -  Student: İSMAİL ERTAN SARIHAN created
+2021-02-06 17:09:11,726 - INFO -  Student: İSRA NUR ALPEREN created
+2021-02-06 17:09:11,726 - INFO -  Student: KADİR ACUN created
+2021-02-06 17:09:11,726 - INFO -  Student: KEMAL CAN BOZKURT created
+2021-02-06 17:09:11,726 - INFO -  Student: KHALED AHMED MOSTAFA MOHAMED YASSEN created
+2021-02-06 17:09:11,726 - INFO -  Student: KORAY EMRE ŞENEL created
+2021-02-06 17:09:11,726 - INFO -  Student: LARA GÜLSÜM ŞEN created
+2021-02-06 17:09:11,726 - INFO -  Student: MAHMUT SALMAN created
+2021-02-06 17:09:11,726 - INFO -  Student: MAHMUT HİLMİ ARIKMERT created
+2021-02-06 17:09:11,726 - INFO -  Student: MEHMET YILMAZ created
+2021-02-06 17:09:11,726 - INFO -  Student: MEHMET ALİ GÖZÜKIZIL created
+2021-02-06 17:09:11,726 - INFO -  Student: MEHMET ALİ YÜKSEL created
+2021-02-06 17:09:11,726 - INFO -  Student: MEHMET ETKA UZUN created
+2021-02-06 17:09:11,726 - INFO -  Student: MEHMET NUSRET ODABAŞI created
+2021-02-06 17:09:11,726 - INFO -  Student: MEHMET SOYKAN MUTLU created
+2021-02-06 17:09:11,726 - INFO -  Student: MELİK ÇAĞAN ODUNCUOĞLU created
+2021-02-06 17:09:11,726 - INFO -  Student: MERT MENGÜ created
+2021-02-06 17:09:11,726 - INFO -  Student: MERTKAN TURAN created
+2021-02-06 17:09:11,726 - INFO -  Student: MERVE ŞAHİN created
+2021-02-06 17:09:11,726 - INFO -  Student: MERVE RANA KIZIL created
+2021-02-06 17:09:11,727 - INFO -  Student: MEVLÜT EREN TOPAL created
+2021-02-06 17:09:11,727 - INFO -  Student: MİKAİL TORUN created
+2021-02-06 17:09:11,727 - INFO -  Student: MUHAMMAD ISMAIL created
+2021-02-06 17:09:11,727 - INFO -  Student: MUHAMMED ADEM EVREN DEMİRKUŞ created
+2021-02-06 17:09:11,727 - INFO -  Student: MUHAMMED ENES AKTÜRK created
+2021-02-06 17:09:11,727 - INFO -  Student: MUHAMMED FATİH ÖZTEL created
+2021-02-06 17:09:11,727 - INFO -  Student: MUHAMMED RAŞİT AYAZ created
+2021-02-06 17:09:11,727 - INFO -  Student: MUHAMMET ÇETİNKAYA created
+2021-02-06 17:09:11,727 - INFO -  Student: MUHAMMET HASAN ALBAYRAK created
+2021-02-06 17:09:11,727 - INFO -  Student: MUHAMMET KÜRŞAT AÇIKGÖZ created
+2021-02-06 17:09:11,727 - INFO -  Student: MUHAMMET MUSTAFA SELİMOĞLU created
+2021-02-06 17:09:11,727 - INFO -  Student: MUHAMMET YASİN TUFAN created
+2021-02-06 17:09:11,727 - INFO -  Student: MUSTAFA GÜREL created
+2021-02-06 17:09:11,727 - INFO -  Student: MUSTAFA KİBAROĞLU created
+2021-02-06 17:09:11,727 - INFO -  Student: MÜMİN KOCAMAZ created
+2021-02-06 17:09:11,727 - INFO -  Student: NURHANDE AKYÜZ created
+2021-02-06 17:09:11,727 - INFO -  Student: OĞUZHAN ERKOL created
+2021-02-06 17:09:11,727 - INFO -  Student: OĞUZHAN TEZEL created
+2021-02-06 17:09:11,727 - INFO -  Student: OĞUZHAN TOKER created
+2021-02-06 17:09:11,728 - INFO -  Student: ORHAN FATİH BAYAZIT created
+2021-02-06 17:09:11,728 - INFO -  Student: OSMAN ERİKCİ created
+2021-02-06 17:09:11,728 - INFO -  Student: OZAN YERLİ created
+2021-02-06 17:09:11,728 - INFO -  Student: ÖMER ERKAN created
+2021-02-06 17:09:11,728 - INFO -  Student: ÖMER KAYA created
+2021-02-06 17:09:11,728 - INFO -  Student: ÖMER ÖZTÜRK created
+2021-02-06 17:09:11,728 - INFO -  Student: RABIUL ISLAM created
+2021-02-06 17:09:11,728 - INFO -  Student: REHA ÜZÜMCÜ created
+2021-02-06 17:09:11,728 - INFO -  Student: RIDVAN SAN created
+2021-02-06 17:09:11,728 - INFO -  Student: RÜMEYSA ÖZTÜRK created
+2021-02-06 17:09:11,728 - INFO -  Student: SAMEEH N. O. KUNBARGI created
+2021-02-06 17:09:11,728 - INFO -  Student: SEDANUR KARA created
+2021-02-06 17:09:11,728 - INFO -  Student: SELAHATTİN HÜSMEN created
+2021-02-06 17:09:11,728 - INFO -  Student: SELİMHAN ÇAKIR created
+2021-02-06 17:09:11,728 - INFO -  Student: SERKAN EROL created
+2021-02-06 17:09:11,728 - INFO -  Student: SERKAN HELVACIOĞLU created
+2021-02-06 17:09:11,728 - INFO -  Student: SHAHZODAKHON RUSTAMOVA created
+2021-02-06 17:09:11,728 - INFO -  Student: SİNAN BURAK ÖZTÜRK created
+2021-02-06 17:09:11,728 - INFO -  Student: SİNEM ONAL created
+2021-02-06 17:09:11,728 - INFO -  Student: SİNEM CEREN KONTAŞ created
+2021-02-06 17:09:11,729 - INFO -  Student: SUEDA BİLEN created
+2021-02-06 17:09:11,729 - INFO -  Student: SÜLEYMAN AHMET SÖNMEZ created
+2021-02-06 17:09:11,729 - INFO -  Student: ŞEREF KUTAY AKGÜN created
+2021-02-06 17:09:11,729 - INFO -  Student: ŞÜKRİYE SOYER created
+2021-02-06 17:09:11,729 - INFO -  Student: TAHA KIZMAZ created
+2021-02-06 17:09:11,729 - INFO -  Student: TAHA ÜZÜMCÜ created
+2021-02-06 17:09:11,729 - INFO -  Student: TAHA ABDULSALAM SARHEED created
+2021-02-06 17:09:11,729 - INFO -  Student: TAHA CEVHER NANECİ created
+2021-02-06 17:09:11,729 - INFO -  Student: TAHA ENES UZUN created
+2021-02-06 17:09:11,729 - INFO -  Student: TALHA BAYBURTLU created
+2021-02-06 17:09:11,729 - INFO -  Student: TAYLAN ROJEN DÖĞER created
+2021-02-06 17:09:11,729 - INFO -  Student: TUGAY SARICI created
+2021-02-06 17:09:11,729 - INFO -  Student: TUNAHAN AYDIN created
+2021-02-06 17:09:11,729 - INFO -  Student: TURGUT KURAL created
+2021-02-06 17:09:11,729 - INFO -  Student: UBEYDULLAH FİKRİ GÜNAY created
+2021-02-06 17:09:11,729 - INFO -  Student: UMER SELMANI created
+2021-02-06 17:09:11,729 - INFO -  Student: UMUT BAYRAM created
+2021-02-06 17:09:11,729 - INFO -  Student: VAHAP GÖZENELİOĞLU created
+2021-02-06 17:09:11,729 - INFO -  Student: VEYSİ ÖZ created
+2021-02-06 17:09:11,729 - INFO -  Student: YASİN ÖZDEMİR created
+2021-02-06 17:09:11,730 - INFO -  Student: YUNUS YILDIRIM created
+2021-02-06 17:09:11,730 - INFO -  Student: YUNUS AHMED STAHLSCHMİDT created
+2021-02-06 17:09:11,730 - INFO -  Student: YUNUS EMRE ERTUNÇ created
+2021-02-06 17:09:11,730 - INFO -  Student: YUSUF TALHA ERDEM created
+2021-02-06 17:09:11,730 - INFO -  Student: ZEHRA KURU created
+2021-02-06 17:09:11,730 - INFO -  Student: ZEKERİYA BATUHAN KARATAŞ created
+2021-02-06 17:09:11,730 - INFO -  Student: ZEYNEP ALICI created
+2021-02-06 17:09:11,730 - INFO -  Student: ZEYNEP FERAH AKKURT created
+2021-02-06 17:09:11,730 - INFO -  Student: ZEYNEP NAZ AKYOKUŞ created
+2021-02-06 17:09:11,730 - INFO -  Student: ZÜLKÜF ORHUN ÖZKAYA created
+2021-02-06 17:09:11,730 - INFO -  Student: BELGİN TAŞTAN created
+2021-02-06 17:09:11,730 - INFO -  Student: ELİF SÜNNETCİ created
+2021-02-06 17:09:11,730 - INFO -  Student: SEVDENUR GENÇ created
+2021-02-06 17:09:11,730 - INFO -  Student: MEHMET TARIK DÜZ created
+2021-02-06 17:09:11,730 - INFO -  Student: YUNUS EMRE OCAK created
+2021-02-06 17:09:18,590 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ABBAS KUTAY is created
+2021-02-06 17:09:18,592 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ABBAS KUTAY is created
+2021-02-06 17:09:18,593 - INFO - Poll_7W4-3_OO output for student ABBAS KUTAY is created
+2021-02-06 17:09:18,594 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ABBAS KUTAY is created
+2021-02-06 17:09:18,596 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ABBAS KUTAY is created
+2021-02-06 17:09:18,597 - INFO - Poll_2W4-3_Object_Orientation output for student ABBAS KUTAY is created
+2021-02-06 17:09:18,598 - INFO - Poll_1OOSD_Software_Activities output for student ABBAS KUTAY is created
+2021-02-06 17:09:18,599 - INFO - Poll_7W4-3_OO output for student ABBAS GÖKTUĞ YILMAZ is created
+2021-02-06 17:09:18,600 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ABBAS GÖKTUĞ YILMAZ is created
+2021-02-06 17:09:18,601 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ABBAS GÖKTUĞ YILMAZ is created
+2021-02-06 17:09:18,602 - INFO - Poll_1OOSD_Software_Activities output for student ABBAS GÖKTUĞ YILMAZ is created
+2021-02-06 17:09:18,604 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ABDUL KERİM BOYACI is created
+2021-02-06 17:09:18,605 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ABDULHALİK ŞENSİN is created
+2021-02-06 17:09:18,606 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ABDULHALİK ŞENSİN is created
+2021-02-06 17:09:18,607 - INFO - Poll_7W4-3_OO output for student ABDULHALİK ŞENSİN is created
+2021-02-06 17:09:18,609 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ABDULHALİK ŞENSİN is created
+2021-02-06 17:09:18,610 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ABDULLAH CANSIZ is created
+2021-02-06 17:09:18,612 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ABDULLAH CANSIZ is created
+2021-02-06 17:09:18,614 - INFO - Poll_7W4-3_OO output for student ABDULLAH CANSIZ is created
+2021-02-06 17:09:18,615 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ABDULLAH CANSIZ is created
+2021-02-06 17:09:18,616 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ABDULLAH CANSIZ is created
+2021-02-06 17:09:18,617 - INFO - Poll_4Week_3 output for student ABDULLAH CANSIZ is created
+2021-02-06 17:09:18,618 - INFO - Poll_2W4-3_Object_Orientation output for student ABDULLAH CANSIZ is created
+2021-02-06 17:09:18,619 - INFO - Poll_1OOSD_Software_Activities output for student ABDULLAH CANSIZ is created
+2021-02-06 17:09:18,621 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ABDULLAH EMRE AYDEMİR is created
+2021-02-06 17:09:18,622 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ABDULLAH EMRE AYDEMİR is created
+2021-02-06 17:09:18,623 - INFO - Poll_7W4-3_OO output for student ABDULLAH EMRE AYDEMİR is created
+2021-02-06 17:09:18,624 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ABDULLAH EMRE AYDEMİR is created
+2021-02-06 17:09:18,625 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ABDULLAH EMRE AYDEMİR is created
+2021-02-06 17:09:18,626 - INFO - Poll_4Week_3 output for student ABDULLAH EMRE AYDEMİR is created
+2021-02-06 17:09:18,627 - INFO - Poll_1OOSD_Software_Activities output for student ABDULLAH EMRE AYDEMİR is created
+2021-02-06 17:09:18,628 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ABDÜLKADİR ASLAN is created
+2021-02-06 17:09:18,630 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ABDÜLKADİR ASLAN is created
+2021-02-06 17:09:18,631 - INFO - Poll_7W4-3_OO output for student ABDÜLKADİR ASLAN is created
+2021-02-06 17:09:18,632 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ABDÜLKADİR ASLAN is created
+2021-02-06 17:09:18,633 - INFO - Poll_4Week_3 output for student ABDÜLKADİR ASLAN is created
+2021-02-06 17:09:18,634 - INFO - Poll_2W4-3_Object_Orientation output for student ABDÜLKADİR ASLAN is created
+2021-02-06 17:09:18,635 - INFO - Poll_1OOSD_Software_Activities output for student ABDÜLKADİR ASLAN is created
+2021-02-06 17:09:18,637 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMAD ASAAD is created
+2021-02-06 17:09:18,638 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMAD ASAAD is created
+2021-02-06 17:09:18,639 - INFO - Poll_7W4-3_OO output for student AHMAD ASAAD is created
+2021-02-06 17:09:18,641 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMAD ASAAD is created
+2021-02-06 17:09:18,642 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMAD ASAAD is created
+2021-02-06 17:09:18,643 - INFO - Poll_4Week_3 output for student AHMAD ASAAD is created
+2021-02-06 17:09:18,644 - INFO - Poll_2W4-3_Object_Orientation output for student AHMAD ASAAD is created
+2021-02-06 17:09:18,645 - INFO - Poll_1OOSD_Software_Activities output for student AHMAD ASAAD is created
+2021-02-06 17:09:18,646 - INFO - Poll_2W4-3_Object_Orientation output for student AHMED HAMİ ORAK is created
+2021-02-06 17:09:18,648 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET AKIL is created
+2021-02-06 17:09:18,649 - INFO - Poll_7W4-3_OO output for student AHMET AKIL is created
+2021-02-06 17:09:18,651 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET AKIL is created
+2021-02-06 17:09:18,652 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET AKIL is created
+2021-02-06 17:09:18,652 - INFO - Poll_4Week_3 output for student AHMET AKIL is created
+2021-02-06 17:09:18,654 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET AKIL is created
+2021-02-06 17:09:18,655 - INFO - Poll_1OOSD_Software_Activities output for student AHMET AKIL is created
+2021-02-06 17:09:18,656 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET GEZMİŞOĞLU is created
+2021-02-06 17:09:18,657 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET GEZMİŞOĞLU is created
+2021-02-06 17:09:18,658 - INFO - Poll_7W4-3_OO output for student AHMET GEZMİŞOĞLU is created
+2021-02-06 17:09:18,660 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET GEZMİŞOĞLU is created
+2021-02-06 17:09:18,661 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET GEZMİŞOĞLU is created
+2021-02-06 17:09:18,662 - INFO - Poll_4Week_3 output for student AHMET GEZMİŞOĞLU is created
+2021-02-06 17:09:18,663 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET GEZMİŞOĞLU is created
+2021-02-06 17:09:18,664 - INFO - Poll_1OOSD_Software_Activities output for student AHMET GEZMİŞOĞLU is created
+2021-02-06 17:09:18,665 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET ÖNKOL is created
+2021-02-06 17:09:18,666 - INFO - Poll_7W4-3_OO output for student AHMET ÖNKOL is created
+2021-02-06 17:09:18,668 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET ÖNKOL is created
+2021-02-06 17:09:18,669 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET ÖNKOL is created
+2021-02-06 17:09:18,670 - INFO - Poll_4Week_3 output for student AHMET ÖNKOL is created
+2021-02-06 17:09:18,671 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET ÖNKOL is created
+2021-02-06 17:09:18,672 - INFO - Poll_1OOSD_Software_Activities output for student AHMET ÖNKOL is created
+2021-02-06 17:09:18,673 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET TURGUT is created
+2021-02-06 17:09:18,675 - INFO - Poll_7W4-3_OO output for student AHMET TURGUT is created
+2021-02-06 17:09:18,676 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET TURGUT is created
+2021-02-06 17:09:18,677 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET TURGUT is created
+2021-02-06 17:09:18,678 - INFO - Poll_4Week_3 output for student AHMET TURGUT is created
+2021-02-06 17:09:18,679 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET TURGUT is created
+2021-02-06 17:09:18,680 - INFO - Poll_1OOSD_Software_Activities output for student AHMET TURGUT is created
+2021-02-06 17:09:18,682 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET ÇAĞRI HODOĞLUGİL is created
+2021-02-06 17:09:18,683 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET ÇAĞRI HODOĞLUGİL is created
+2021-02-06 17:09:18,684 - INFO - Poll_7W4-3_OO output for student AHMET ÇAĞRI HODOĞLUGİL is created
+2021-02-06 17:09:18,686 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET ÇAĞRI HODOĞLUGİL is created
+2021-02-06 17:09:18,687 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET ÇAĞRI HODOĞLUGİL is created
+2021-02-06 17:09:18,687 - INFO - Poll_4Week_3 output for student AHMET ÇAĞRI HODOĞLUGİL is created
+2021-02-06 17:09:18,689 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET ÇAĞRI HODOĞLUGİL is created
+2021-02-06 17:09:18,690 - INFO - Poll_1OOSD_Software_Activities output for student AHMET ÇAĞRI HODOĞLUGİL is created
+2021-02-06 17:09:18,691 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET ELBURUZ GÜRBÜZ is created
+2021-02-06 17:09:18,692 - INFO - Poll_7W4-3_OO output for student AHMET ELBURUZ GÜRBÜZ is created
+2021-02-06 17:09:18,694 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET ELBURUZ GÜRBÜZ is created
+2021-02-06 17:09:18,695 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET ELBURUZ GÜRBÜZ is created
+2021-02-06 17:09:18,696 - INFO - Poll_4Week_3 output for student AHMET ELBURUZ GÜRBÜZ is created
+2021-02-06 17:09:18,697 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET ELBURUZ GÜRBÜZ is created
+2021-02-06 17:09:18,698 - INFO - Poll_1OOSD_Software_Activities output for student AHMET ELBURUZ GÜRBÜZ is created
+2021-02-06 17:09:18,699 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET EMİRHAN BAKKAL is created
+2021-02-06 17:09:18,700 - INFO - Poll_7W4-3_OO output for student AHMET EMİRHAN BAKKAL is created
+2021-02-06 17:09:18,702 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET EMİRHAN BAKKAL is created
+2021-02-06 17:09:18,703 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET EMİRHAN BAKKAL is created
+2021-02-06 17:09:18,704 - INFO - Poll_4Week_3 output for student AHMET EMİRHAN BAKKAL is created
+2021-02-06 17:09:18,705 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET EMİRHAN BAKKAL is created
+2021-02-06 17:09:18,706 - INFO - Poll_1OOSD_Software_Activities output for student AHMET EMİRHAN BAKKAL is created
+2021-02-06 17:09:18,707 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET FARUK YILMAZ is created
+2021-02-06 17:09:18,708 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET FARUK YILMAZ is created
+2021-02-06 17:09:18,710 - INFO - Poll_7W4-3_OO output for student AHMET FARUK YILMAZ is created
+2021-02-06 17:09:18,711 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET FARUK YILMAZ is created
+2021-02-06 17:09:18,712 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET FARUK YILMAZ is created
+2021-02-06 17:09:18,713 - INFO - Poll_4Week_3 output for student AHMET FARUK YILMAZ is created
+2021-02-06 17:09:18,714 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET FARUK YILMAZ is created
+2021-02-06 17:09:18,715 - INFO - Poll_1OOSD_Software_Activities output for student AHMET FARUK YILMAZ is created
+2021-02-06 17:09:18,717 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET FATİH YÜKSEL is created
+2021-02-06 17:09:18,718 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET FATİH YÜKSEL is created
+2021-02-06 17:09:18,719 - INFO - Poll_7W4-3_OO output for student AHMET FATİH YÜKSEL is created
+2021-02-06 17:09:18,720 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET FATİH YÜKSEL is created
+2021-02-06 17:09:18,721 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET FATİH YÜKSEL is created
+2021-02-06 17:09:18,722 - INFO - Poll_4Week_3 output for student AHMET FATİH YÜKSEL is created
+2021-02-06 17:09:18,723 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET FATİH YÜKSEL is created
+2021-02-06 17:09:18,725 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET FAZIL EMİR is created
+2021-02-06 17:09:18,727 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET FAZIL EMİR is created
+2021-02-06 17:09:18,728 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET FAZIL EMİR is created
+2021-02-06 17:09:18,728 - INFO - Poll_4Week_3 output for student AHMET FAZIL EMİR is created
+2021-02-06 17:09:18,730 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET HAKAN ŞİMŞEK is created
+2021-02-06 17:09:18,731 - INFO - Poll_7W4-3_OO output for student AHMET HAKAN ŞİMŞEK is created
+2021-02-06 17:09:18,732 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET HAKAN ŞİMŞEK is created
+2021-02-06 17:09:18,733 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET HAKAN ŞİMŞEK is created
+2021-02-06 17:09:18,734 - INFO - Poll_4Week_3 output for student AHMET HAKAN ŞİMŞEK is created
+2021-02-06 17:09:18,735 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET HAKAN ŞİMŞEK is created
+2021-02-06 17:09:18,736 - INFO - Poll_1OOSD_Software_Activities output for student AHMET HAKAN ŞİMŞEK is created
+2021-02-06 17:09:18,738 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET HAMZA DEMİR is created
+2021-02-06 17:09:18,739 - INFO - Poll_7W4-3_OO output for student AHMET HAMZA DEMİR is created
+2021-02-06 17:09:18,740 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET HAMZA DEMİR is created
+2021-02-06 17:09:18,741 - INFO - Poll_4Week_3 output for student AHMET HAMZA DEMİR is created
+2021-02-06 17:09:18,743 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET HAMZA DEMİR is created
+2021-02-06 17:09:18,744 - INFO - Poll_1OOSD_Software_Activities output for student AHMET HAMZA DEMİR is created
+2021-02-06 17:09:18,745 - INFO - Poll_7W4-3_OO output for student AHMET HARUN TOKYER is created
+2021-02-06 17:09:18,746 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET HARUN TOKYER is created
+2021-02-06 17:09:18,747 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET HARUN TOKYER is created
+2021-02-06 17:09:18,748 - INFO - Poll_4Week_3 output for student AHMET HARUN TOKYER is created
+2021-02-06 17:09:18,749 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET HARUN TOKYER is created
+2021-02-06 17:09:18,750 - INFO - Poll_1OOSD_Software_Activities output for student AHMET HARUN TOKYER is created
+2021-02-06 17:09:18,752 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET KEREM AKPINAR is created
+2021-02-06 17:09:18,753 - INFO - Poll_7W4-3_OO output for student AHMET KEREM AKPINAR is created
+2021-02-06 17:09:18,754 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET KEREM AKPINAR is created
+2021-02-06 17:09:18,754 - INFO - Poll_4Week_3 output for student AHMET KEREM AKPINAR is created
+2021-02-06 17:09:18,756 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET KEREM AKPINAR is created
+2021-02-06 17:09:18,757 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET ONAT ÖZALAN is created
+2021-02-06 17:09:18,758 - INFO - Poll_7W4-3_OO output for student AHMET ONAT ÖZALAN is created
+2021-02-06 17:09:18,760 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET ONAT ÖZALAN is created
+2021-02-06 17:09:18,761 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET ONAT ÖZALAN is created
+2021-02-06 17:09:18,762 - INFO - Poll_4Week_3 output for student AHMET ONAT ÖZALAN is created
+2021-02-06 17:09:18,763 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET ONAT ÖZALAN is created
+2021-02-06 17:09:18,764 - INFO - Poll_1OOSD_Software_Activities output for student AHMET ONAT ÖZALAN is created
+2021-02-06 17:09:18,765 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET TAYYİB MENGÜÇ is created
+2021-02-06 17:09:18,766 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AHMET TAYYİB MENGÜÇ is created
+2021-02-06 17:09:18,767 - INFO - Poll_7W4-3_OO output for student AHMET TAYYİB MENGÜÇ is created
+2021-02-06 17:09:18,769 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AHMET TAYYİB MENGÜÇ is created
+2021-02-06 17:09:18,770 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AHMET TAYYİB MENGÜÇ is created
+2021-02-06 17:09:18,771 - INFO - Poll_4Week_3 output for student AHMET TAYYİB MENGÜÇ is created
+2021-02-06 17:09:18,772 - INFO - Poll_2W4-3_Object_Orientation output for student AHMET TAYYİB MENGÜÇ is created
+2021-02-06 17:09:18,774 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALI REZA IBRAHIMZADA is created
+2021-02-06 17:09:18,775 - INFO - Poll_7W4-3_OO output for student ALI REZA IBRAHIMZADA is created
+2021-02-06 17:09:18,776 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ALI REZA IBRAHIMZADA is created
+2021-02-06 17:09:18,777 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ALI REZA IBRAHIMZADA is created
+2021-02-06 17:09:18,778 - INFO - Poll_4Week_3 output for student ALI REZA IBRAHIMZADA is created
+2021-02-06 17:09:18,779 - INFO - Poll_2W4-3_Object_Orientation output for student ALI REZA IBRAHIMZADA is created
+2021-02-06 17:09:18,780 - INFO - Poll_1OOSD_Software_Activities output for student ALI REZA IBRAHIMZADA is created
+2021-02-06 17:09:18,781 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALİ ÇETİNKAYA is created
+2021-02-06 17:09:18,782 - INFO - Poll_7W4-3_OO output for student ALİ ÇETİNKAYA is created
+2021-02-06 17:09:18,784 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ALİ ÇETİNKAYA is created
+2021-02-06 17:09:18,785 - INFO - Poll_4Week_3 output for student ALİ ÇETİNKAYA is created
+2021-02-06 17:09:18,786 - INFO - Poll_2W4-3_Object_Orientation output for student ALİ ÇETİNKAYA is created
+2021-02-06 17:09:18,788 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALİ ANIL REYHAN is created
+2021-02-06 17:09:18,789 - INFO - Poll_7W4-3_OO output for student ALİ ANIL REYHAN is created
+2021-02-06 17:09:18,790 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ALİ ANIL REYHAN is created
+2021-02-06 17:09:18,791 - INFO - Poll_4Week_3 output for student ALİ ANIL REYHAN is created
+2021-02-06 17:09:18,793 - INFO - Poll_2W4-3_Object_Orientation output for student ALİ ANIL REYHAN is created
+2021-02-06 17:09:18,794 - INFO - Poll_1OOSD_Software_Activities output for student ALİ ANIL REYHAN is created
+2021-02-06 17:09:18,795 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALİ BATUHAN YAMANARSLAN is created
+2021-02-06 17:09:18,796 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALİ BATUHAN YAMANARSLAN is created
+2021-02-06 17:09:18,797 - INFO - Poll_7W4-3_OO output for student ALİ BATUHAN YAMANARSLAN is created
+2021-02-06 17:09:18,799 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ALİ BATUHAN YAMANARSLAN is created
+2021-02-06 17:09:18,800 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ALİ BATUHAN YAMANARSLAN is created
+2021-02-06 17:09:18,801 - INFO - Poll_4Week_3 output for student ALİ BATUHAN YAMANARSLAN is created
+2021-02-06 17:09:18,802 - INFO - Poll_2W4-3_Object_Orientation output for student ALİ BATUHAN YAMANARSLAN is created
+2021-02-06 17:09:18,803 - INFO - Poll_1OOSD_Software_Activities output for student ALİ BATUHAN YAMANARSLAN is created
+2021-02-06 17:09:18,805 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALİ ONUR ASLAN is created
+2021-02-06 17:09:18,806 - INFO - Poll_7W4-3_OO output for student ALİ ONUR ASLAN is created
+2021-02-06 17:09:18,808 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ALİ ONUR ASLAN is created
+2021-02-06 17:09:18,809 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ALİ ONUR ASLAN is created
+2021-02-06 17:09:18,810 - INFO - Poll_4Week_3 output for student ALİ ONUR ASLAN is created
+2021-02-06 17:09:18,811 - INFO - Poll_2W4-3_Object_Orientation output for student ALİ ONUR ASLAN is created
+2021-02-06 17:09:18,812 - INFO - Poll_1OOSD_Software_Activities output for student ALİ ONUR ASLAN is created
+2021-02-06 17:09:18,813 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALPARSLAN KÖPRÜLÜ is created
+2021-02-06 17:09:18,815 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ALPARSLAN KÖPRÜLÜ is created
+2021-02-06 17:09:18,816 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALPER DOKAY is created
+2021-02-06 17:09:18,817 - INFO - Poll_7W4-3_OO output for student ALPER DOKAY is created
+2021-02-06 17:09:18,819 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ALPER DOKAY is created
+2021-02-06 17:09:18,820 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ALPER DOKAY is created
+2021-02-06 17:09:18,821 - INFO - Poll_4Week_3 output for student ALPER DOKAY is created
+2021-02-06 17:09:18,822 - INFO - Poll_2W4-3_Object_Orientation output for student ALPER DOKAY is created
+2021-02-06 17:09:18,823 - INFO - Poll_1OOSD_Software_Activities output for student ALPER DOKAY is created
+2021-02-06 17:09:18,824 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALPEREN KÖKER is created
+2021-02-06 17:09:18,826 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALPEREN KÖKER is created
+2021-02-06 17:09:18,827 - INFO - Poll_7W4-3_OO output for student ALPEREN KÖKER is created
+2021-02-06 17:09:18,829 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ALPEREN KÖKER is created
+2021-02-06 17:09:18,830 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ALPEREN KÖKER is created
+2021-02-06 17:09:18,831 - INFO - Poll_1OOSD_Software_Activities output for student ALPEREN KÖKER is created
+2021-02-06 17:09:18,832 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALPEREN KAĞAN KARA is created
+2021-02-06 17:09:18,833 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ALPEREN KAĞAN KARA is created
+2021-02-06 17:09:18,834 - INFO - Poll_7W4-3_OO output for student ALPEREN KAĞAN KARA is created
+2021-02-06 17:09:18,836 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ALPEREN KAĞAN KARA is created
+2021-02-06 17:09:18,837 - INFO - Poll_4Week_3 output for student ALPEREN KAĞAN KARA is created
+2021-02-06 17:09:18,838 - INFO - Poll_2W4-3_Object_Orientation output for student ALPEREN KAĞAN KARA is created
+2021-02-06 17:09:18,840 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AMELA KARMAJ is created
+2021-02-06 17:09:18,841 - INFO - Poll_7W4-3_OO output for student AMELA KARMAJ is created
+2021-02-06 17:09:18,842 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AMELA KARMAJ is created
+2021-02-06 17:09:18,843 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AMELA KARMAJ is created
+2021-02-06 17:09:18,844 - INFO - Poll_4Week_3 output for student AMELA KARMAJ is created
+2021-02-06 17:09:18,845 - INFO - Poll_1OOSD_Software_Activities output for student AMELA KARMAJ is created
+2021-02-06 17:09:18,846 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ANIL ŞENAY is created
+2021-02-06 17:09:18,847 - INFO - Poll_7W4-3_OO output for student ANIL ŞENAY is created
+2021-02-06 17:09:18,849 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ANIL ŞENAY is created
+2021-02-06 17:09:18,852 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ANIL ŞENAY is created
+2021-02-06 17:09:18,853 - INFO - Poll_4Week_3 output for student ANIL ŞENAY is created
+2021-02-06 17:09:18,878 - INFO - Poll_2W4-3_Object_Orientation output for student ANIL ŞENAY is created
+2021-02-06 17:09:18,879 - INFO - Poll_1OOSD_Software_Activities output for student ANIL ŞENAY is created
+2021-02-06 17:09:18,881 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ARDA YİĞİT KAYNAR is created
+2021-02-06 17:09:18,882 - INFO - Poll_7W4-3_OO output for student ARDA YİĞİT KAYNAR is created
+2021-02-06 17:09:18,883 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ARDA YİĞİT KAYNAR is created
+2021-02-06 17:09:18,884 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ARDA YİĞİT KAYNAR is created
+2021-02-06 17:09:18,885 - INFO - Poll_4Week_3 output for student ARDA YİĞİT KAYNAR is created
+2021-02-06 17:09:18,887 - INFO - Poll_2W4-3_Object_Orientation output for student ARDA YİĞİT KAYNAR is created
+2021-02-06 17:09:18,887 - INFO - Poll_1OOSD_Software_Activities output for student ARDA YİĞİT KAYNAR is created
+2021-02-06 17:09:18,889 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ASAF TALHA GÜLTEKİN is created
+2021-02-06 17:09:18,890 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ASEM OKBY is created
+2021-02-06 17:09:18,892 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ASEM OKBY is created
+2021-02-06 17:09:18,893 - INFO - Poll_7W4-3_OO output for student ASEM OKBY is created
+2021-02-06 17:09:18,894 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ASEM OKBY is created
+2021-02-06 17:09:18,895 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ASEM OKBY is created
+2021-02-06 17:09:18,896 - INFO - Poll_4Week_3 output for student ASEM OKBY is created
+2021-02-06 17:09:18,898 - INFO - Poll_2W4-3_Object_Orientation output for student ASEM OKBY is created
+2021-02-06 17:09:18,899 - INFO - Poll_1OOSD_Software_Activities output for student ASEM OKBY is created
+2021-02-06 17:09:18,900 - INFO - Poll_7W4-3_OO output for student AYBERK ÖMER ALTUNTABAK is created
+2021-02-06 17:09:18,901 - INFO - Poll_4Week_3 output for student AYBERK ÖMER ALTUNTABAK is created
+2021-02-06 17:09:18,902 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AYÇA İDİL KAYA is created
+2021-02-06 17:09:18,903 - INFO - Poll_7W4-3_OO output for student AYÇA İDİL KAYA is created
+2021-02-06 17:09:18,905 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AYÇA İDİL KAYA is created
+2021-02-06 17:09:18,906 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AYÇA İDİL KAYA is created
+2021-02-06 17:09:18,907 - INFO - Poll_4Week_3 output for student AYÇA İDİL KAYA is created
+2021-02-06 17:09:18,908 - INFO - Poll_2W4-3_Object_Orientation output for student AYÇA İDİL KAYA is created
+2021-02-06 17:09:18,909 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AYDIN DUYGU is created
+2021-02-06 17:09:18,910 - INFO - Poll_7W4-3_OO output for student AYDIN DUYGU is created
+2021-02-06 17:09:18,912 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AYDIN DUYGU is created
+2021-02-06 17:09:18,913 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AYDIN DUYGU is created
+2021-02-06 17:09:18,914 - INFO - Poll_4Week_3 output for student AYDIN DUYGU is created
+2021-02-06 17:09:18,915 - INFO - Poll_2W4-3_Object_Orientation output for student AYDIN DUYGU is created
+2021-02-06 17:09:18,916 - INFO - Poll_1OOSD_Software_Activities output for student AYDIN DUYGU is created
+2021-02-06 17:09:18,917 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AYKUT BAŞYİĞİT is created
+2021-02-06 17:09:18,919 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AYKUT BAŞYİĞİT is created
+2021-02-06 17:09:18,920 - INFO - Poll_7W4-3_OO output for student AYKUT BAŞYİĞİT is created
+2021-02-06 17:09:18,921 - INFO - Poll_13W8-1_Iteration_Artifacts output for student AYKUT BAŞYİĞİT is created
+2021-02-06 17:09:18,922 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AYKUT BAŞYİĞİT is created
+2021-02-06 17:09:18,924 - INFO - Poll_4Week_3 output for student AYKUT BAŞYİĞİT is created
+2021-02-06 17:09:18,925 - INFO - Poll_2W4-3_Object_Orientation output for student AYKUT BAŞYİĞİT is created
+2021-02-06 17:09:18,926 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student AYŞENUR KARAHASAN is created
+2021-02-06 17:09:18,927 - INFO - Poll_7W4-3_OO output for student AYŞENUR KARAHASAN is created
+2021-02-06 17:09:18,928 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student AYŞENUR KARAHASAN is created
+2021-02-06 17:09:18,929 - INFO - Poll_4Week_3 output for student AYŞENUR KARAHASAN is created
+2021-02-06 17:09:18,930 - INFO - Poll_2W4-3_Object_Orientation output for student AYŞENUR KARAHASAN is created
+2021-02-06 17:09:18,931 - INFO - Poll_1OOSD_Software_Activities output for student AYŞENUR KARAHASAN is created
+2021-02-06 17:09:18,932 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BERK ENGİN is created
+2021-02-06 17:09:18,933 - INFO - Poll_7W4-3_OO output for student BERK ENGİN is created
+2021-02-06 17:09:18,935 - INFO - Poll_13W8-1_Iteration_Artifacts output for student BERK ENGİN is created
+2021-02-06 17:09:18,938 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student BERK ENGİN is created
+2021-02-06 17:09:18,939 - INFO - Poll_4Week_3 output for student BERK ENGİN is created
+2021-02-06 17:09:18,940 - INFO - Poll_2W4-3_Object_Orientation output for student BERK ENGİN is created
+2021-02-06 17:09:18,941 - INFO - Poll_1OOSD_Software_Activities output for student BERK ENGİN is created
+2021-02-06 17:09:18,942 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BERK YILDIZ is created
+2021-02-06 17:09:18,944 - INFO - Poll_7W4-3_OO output for student BERK YILDIZ is created
+2021-02-06 17:09:18,945 - INFO - Poll_13W8-1_Iteration_Artifacts output for student BERK YILDIZ is created
+2021-02-06 17:09:18,946 - INFO - Poll_4Week_3 output for student BERK YILDIZ is created
+2021-02-06 17:09:18,947 - INFO - Poll_2W4-3_Object_Orientation output for student BERK YILDIZ is created
+2021-02-06 17:09:18,948 - INFO - Poll_1OOSD_Software_Activities output for student BERK YILDIZ is created
+2021-02-06 17:09:18,950 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BERKAY DENİZ is created
+2021-02-06 17:09:18,951 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BERKAY DENİZ is created
+2021-02-06 17:09:18,952 - INFO - Poll_7W4-3_OO output for student BERKAY DENİZ is created
+2021-02-06 17:09:18,954 - INFO - Poll_13W8-1_Iteration_Artifacts output for student BERKAY DENİZ is created
+2021-02-06 17:09:18,955 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student BERKAY DENİZ is created
+2021-02-06 17:09:18,955 - INFO - Poll_4Week_3 output for student BERKAY DENİZ is created
+2021-02-06 17:09:18,957 - INFO - Poll_2W4-3_Object_Orientation output for student BERKAY DENİZ is created
+2021-02-06 17:09:18,957 - INFO - Poll_1OOSD_Software_Activities output for student BERKAY DENİZ is created
+2021-02-06 17:09:18,959 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BERKE ŞAHİN is created
+2021-02-06 17:09:18,960 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BERKE ŞAHİN is created
+2021-02-06 17:09:18,961 - INFO - Poll_7W4-3_OO output for student BERKE ŞAHİN is created
+2021-02-06 17:09:18,963 - INFO - Poll_13W8-1_Iteration_Artifacts output for student BERKE ŞAHİN is created
+2021-02-06 17:09:18,964 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student BERKE ŞAHİN is created
+2021-02-06 17:09:18,964 - INFO - Poll_4Week_3 output for student BERKE ŞAHİN is created
+2021-02-06 17:09:18,965 - INFO - Poll_1OOSD_Software_Activities output for student BERKE ŞAHİN is created
+2021-02-06 17:09:18,967 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BERRA MERCAN is created
+2021-02-06 17:09:18,968 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BERRA MERCAN is created
+2021-02-06 17:09:18,969 - INFO - Poll_7W4-3_OO output for student BERRA MERCAN is created
+2021-02-06 17:09:18,970 - INFO - Poll_13W8-1_Iteration_Artifacts output for student BERRA MERCAN is created
+2021-02-06 17:09:18,971 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student BERRA MERCAN is created
+2021-02-06 17:09:18,972 - INFO - Poll_4Week_3 output for student BERRA MERCAN is created
+2021-02-06 17:09:18,973 - INFO - Poll_2W4-3_Object_Orientation output for student BERRA MERCAN is created
+2021-02-06 17:09:18,974 - INFO - Poll_1OOSD_Software_Activities output for student BERRA MERCAN is created
+2021-02-06 17:09:18,976 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BEYZA AYDOĞAN is created
+2021-02-06 17:09:18,977 - INFO - Poll_7W4-3_OO output for student BEYZA AYDOĞAN is created
+2021-02-06 17:09:18,978 - INFO - Poll_13W8-1_Iteration_Artifacts output for student BEYZA AYDOĞAN is created
+2021-02-06 17:09:18,979 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student BEYZA AYDOĞAN is created
+2021-02-06 17:09:18,980 - INFO - Poll_4Week_3 output for student BEYZA AYDOĞAN is created
+2021-02-06 17:09:18,981 - INFO - Poll_2W4-3_Object_Orientation output for student BEYZA AYDOĞAN is created
+2021-02-06 17:09:18,982 - INFO - Poll_1OOSD_Software_Activities output for student BEYZA AYDOĞAN is created
+2021-02-06 17:09:18,984 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BİLAL TAN is created
+2021-02-06 17:09:18,985 - INFO - Poll_7W4-3_OO output for student BİLAL TAN is created
+2021-02-06 17:09:18,986 - INFO - Poll_4Week_3 output for student BİLAL TAN is created
+2021-02-06 17:09:18,987 - INFO - Poll_2W4-3_Object_Orientation output for student BİLAL TAN is created
+2021-02-06 17:09:18,988 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BİLGEHAN GEÇİCİ is created
+2021-02-06 17:09:18,990 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BİLGEHAN GEÇİCİ is created
+2021-02-06 17:09:18,991 - INFO - Poll_7W4-3_OO output for student BİLGEHAN GEÇİCİ is created
+2021-02-06 17:09:18,992 - INFO - Poll_13W8-1_Iteration_Artifacts output for student BİLGEHAN GEÇİCİ is created
+2021-02-06 17:09:18,994 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student BİLGEHAN GEÇİCİ is created
+2021-02-06 17:09:18,994 - INFO - Poll_4Week_3 output for student BİLGEHAN GEÇİCİ is created
+2021-02-06 17:09:18,996 - INFO - Poll_2W4-3_Object_Orientation output for student BİLGEHAN GEÇİCİ is created
+2021-02-06 17:09:18,996 - INFO - Poll_1OOSD_Software_Activities output for student BİLGEHAN GEÇİCİ is created
+2021-02-06 17:09:18,998 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BURAK FİDAN is created
+2021-02-06 17:09:18,999 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BURAK FİDAN is created
+2021-02-06 17:09:19,000 - INFO - Poll_7W4-3_OO output for student BURAK FİDAN is created
+2021-02-06 17:09:19,001 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student BURAK FİDAN is created
+2021-02-06 17:09:19,002 - INFO - Poll_4Week_3 output for student BURAK FİDAN is created
+2021-02-06 17:09:19,003 - INFO - Poll_2W4-3_Object_Orientation output for student BURAK FİDAN is created
+2021-02-06 17:09:19,004 - INFO - Poll_7W4-3_OO output for student BÜŞRA AĞDACI is created
+2021-02-06 17:09:19,006 - INFO - Poll_13W8-1_Iteration_Artifacts output for student BÜŞRA AĞDACI is created
+2021-02-06 17:09:19,007 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student BÜŞRA AĞDACI is created
+2021-02-06 17:09:19,008 - INFO - Poll_1OOSD_Software_Activities output for student BÜŞRA AĞDACI is created
+2021-02-06 17:09:19,009 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BÜŞRA BÖREKCİ GÜRLER is created
+2021-02-06 17:09:19,010 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BÜŞRA BÖREKCİ GÜRLER is created
+2021-02-06 17:09:19,011 - INFO - Poll_7W4-3_OO output for student BÜŞRA BÖREKCİ GÜRLER is created
+2021-02-06 17:09:19,013 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student CAFER SADIK YÜKSELOĞLU is created
+2021-02-06 17:09:19,014 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student CAFER SADIK YÜKSELOĞLU is created
+2021-02-06 17:09:19,015 - INFO - Poll_7W4-3_OO output for student CAFER SADIK YÜKSELOĞLU is created
+2021-02-06 17:09:19,016 - INFO - Poll_4Week_3 output for student CAFER SADIK YÜKSELOĞLU is created
+2021-02-06 17:09:19,017 - INFO - Poll_2W4-3_Object_Orientation output for student CAFER SADIK YÜKSELOĞLU is created
+2021-02-06 17:09:19,018 - INFO - Poll_1OOSD_Software_Activities output for student CAFER SADIK YÜKSELOĞLU is created
+2021-02-06 17:09:19,019 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student CAN KARATEPE is created
+2021-02-06 17:09:19,021 - INFO - Poll_7W4-3_OO output for student CAN KARATEPE is created
+2021-02-06 17:09:19,022 - INFO - Poll_13W8-1_Iteration_Artifacts output for student CAN KARATEPE is created
+2021-02-06 17:09:19,023 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student CAN KARATEPE is created
+2021-02-06 17:09:19,024 - INFO - Poll_4Week_3 output for student CAN KARATEPE is created
+2021-02-06 17:09:19,025 - INFO - Poll_2W4-3_Object_Orientation output for student CAN KARATEPE is created
+2021-02-06 17:09:19,026 - INFO - Poll_1OOSD_Software_Activities output for student CAN KARATEPE is created
+2021-02-06 17:09:19,027 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student CENK KAAN KANAR is created
+2021-02-06 17:09:19,029 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student CENK KAAN KANAR is created
+2021-02-06 17:09:19,030 - INFO - Poll_7W4-3_OO output for student CENK KAAN KANAR is created
+2021-02-06 17:09:19,031 - INFO - Poll_13W8-1_Iteration_Artifacts output for student CENK KAAN KANAR is created
+2021-02-06 17:09:19,032 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student CENK KAAN KANAR is created
+2021-02-06 17:09:19,033 - INFO - Poll_4Week_3 output for student CENK KAAN KANAR is created
+2021-02-06 17:09:19,034 - INFO - Poll_2W4-3_Object_Orientation output for student CENK KAAN KANAR is created
+2021-02-06 17:09:19,036 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ÇAĞATAY USLU is created
+2021-02-06 17:09:19,037 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student DIALA JASSEM MOHAMMAD BADER JUBEH DIALA JASSEM MOHAMMAD BADER JUBEH is created
+2021-02-06 17:09:19,039 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student DIALA JASSEM MOHAMMAD BADER JUBEH DIALA JASSEM MOHAMMAD BADER JUBEH is created
+2021-02-06 17:09:19,040 - INFO - Poll_7W4-3_OO output for student DIALA JASSEM MOHAMMAD BADER JUBEH DIALA JASSEM MOHAMMAD BADER JUBEH is created
+2021-02-06 17:09:19,041 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student DIALA JASSEM MOHAMMAD BADER JUBEH DIALA JASSEM MOHAMMAD BADER JUBEH is created
+2021-02-06 17:09:19,041 - INFO - Poll_4Week_3 output for student DIALA JASSEM MOHAMMAD BADER JUBEH DIALA JASSEM MOHAMMAD BADER JUBEH is created
+2021-02-06 17:09:19,043 - INFO - Poll_2W4-3_Object_Orientation output for student DIALA JASSEM MOHAMMAD BADER JUBEH DIALA JASSEM MOHAMMAD BADER JUBEH is created
+2021-02-06 17:09:19,044 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student DUYGU YASİNOĞLU is created
+2021-02-06 17:09:19,045 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student DUYGU YASİNOĞLU is created
+2021-02-06 17:09:19,047 - INFO - Poll_13W8-1_Iteration_Artifacts output for student DUYGU YASİNOĞLU is created
+2021-02-06 17:09:19,048 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student DUYGU YASİNOĞLU is created
+2021-02-06 17:09:19,049 - INFO - Poll_2W4-3_Object_Orientation output for student DUYGU YASİNOĞLU is created
+2021-02-06 17:09:19,050 - INFO - Poll_1OOSD_Software_Activities output for student DUYGU YASİNOĞLU is created
+2021-02-06 17:09:19,051 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ECEM ÇEŞMECİLER is created
+2021-02-06 17:09:19,053 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ECEM ÇEŞMECİLER is created
+2021-02-06 17:09:19,054 - INFO - Poll_7W4-3_OO output for student ECEM ÇEŞMECİLER is created
+2021-02-06 17:09:19,055 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ECEM ÇEŞMECİLER is created
+2021-02-06 17:09:19,056 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ECEM ÇEŞMECİLER is created
+2021-02-06 17:09:19,057 - INFO - Poll_4Week_3 output for student ECEM ÇEŞMECİLER is created
+2021-02-06 17:09:19,058 - INFO - Poll_2W4-3_Object_Orientation output for student ECEM ÇEŞMECİLER is created
+2021-02-06 17:09:19,059 - INFO - Poll_1OOSD_Software_Activities output for student ECEM ÇEŞMECİLER is created
+2021-02-06 17:09:19,061 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student EDANUR ÖZTÜRK is created
+2021-02-06 17:09:19,062 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student EDANUR ÖZTÜRK is created
+2021-02-06 17:09:19,063 - INFO - Poll_7W4-3_OO output for student EDANUR ÖZTÜRK is created
+2021-02-06 17:09:19,064 - INFO - Poll_13W8-1_Iteration_Artifacts output for student EDANUR ÖZTÜRK is created
+2021-02-06 17:09:19,066 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student EDANUR ÖZTÜRK is created
+2021-02-06 17:09:19,066 - INFO - Poll_4Week_3 output for student EDANUR ÖZTÜRK is created
+2021-02-06 17:09:19,068 - INFO - Poll_2W4-3_Object_Orientation output for student EDANUR ÖZTÜRK is created
+2021-02-06 17:09:19,068 - INFO - Poll_1OOSD_Software_Activities output for student EDANUR ÖZTÜRK is created
+2021-02-06 17:09:19,069 - INFO - Poll_7W4-3_OO output for student EFE BERKE ERKESKİN is created
+2021-02-06 17:09:19,070 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student EFE BERKE ERKESKİN is created
+2021-02-06 17:09:19,071 - INFO - Poll_4Week_3 output for student EFE BERKE ERKESKİN is created
+2021-02-06 17:09:19,072 - INFO - Poll_2W4-3_Object_Orientation output for student EFE BERKE ERKESKİN is created
+2021-02-06 17:09:19,073 - INFO - Poll_1OOSD_Software_Activities output for student EFE BERKE ERKESKİN is created
+2021-02-06 17:09:19,075 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ELİF GÖKPINAR is created
+2021-02-06 17:09:19,076 - INFO - Poll_7W4-3_OO output for student ELİF GÖKPINAR is created
+2021-02-06 17:09:19,077 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ELİF GÖKPINAR is created
+2021-02-06 17:09:19,078 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ELİF GÖKPINAR is created
+2021-02-06 17:09:19,079 - INFO - Poll_4Week_3 output for student ELİF GÖKPINAR is created
+2021-02-06 17:09:19,080 - INFO - Poll_1OOSD_Software_Activities output for student ELİF GÖKPINAR is created
+2021-02-06 17:09:19,081 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student EMİN KAĞAN KADIOĞLU is created
+2021-02-06 17:09:19,082 - INFO - Poll_7W4-3_OO output for student EMİN KAĞAN KADIOĞLU is created
+2021-02-06 17:09:19,084 - INFO - Poll_13W8-1_Iteration_Artifacts output for student EMİN KAĞAN KADIOĞLU is created
+2021-02-06 17:09:19,085 - INFO - Poll_4Week_3 output for student EMİN KAĞAN KADIOĞLU is created
+2021-02-06 17:09:19,086 - INFO - Poll_2W4-3_Object_Orientation output for student EMİN KAĞAN KADIOĞLU is created
+2021-02-06 17:09:19,088 - INFO - Poll_1OOSD_Software_Activities output for student EMİN KAĞAN KADIOĞLU is created
+2021-02-06 17:09:19,089 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student EMİN SAFA TOK is created
+2021-02-06 17:09:19,090 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student EMİN SAFA TOK is created
+2021-02-06 17:09:19,091 - INFO - Poll_7W4-3_OO output for student EMİN SAFA TOK is created
+2021-02-06 17:09:19,093 - INFO - Poll_13W8-1_Iteration_Artifacts output for student EMİN SAFA TOK is created
+2021-02-06 17:09:19,094 - INFO - Poll_4Week_3 output for student EMİN SAFA TOK is created
+2021-02-06 17:09:19,095 - INFO - Poll_1OOSD_Software_Activities output for student EMİN SAFA TOK is created
+2021-02-06 17:09:19,096 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student EMİR BUĞRA KILIÇ is created
+2021-02-06 17:09:19,097 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student EMİR BUĞRA KILIÇ is created
+2021-02-06 17:09:19,099 - INFO - Poll_13W8-1_Iteration_Artifacts output for student EMİR BUĞRA KILIÇ is created
+2021-02-06 17:09:19,100 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student EMİR BUĞRA KILIÇ is created
+2021-02-06 17:09:19,101 - INFO - Poll_4Week_3 output for student EMİR BUĞRA KILIÇ is created
+2021-02-06 17:09:19,102 - INFO - Poll_2W4-3_Object_Orientation output for student EMİR BUĞRA KILIÇ is created
+2021-02-06 17:09:19,103 - INFO - Poll_1OOSD_Software_Activities output for student EMİR BUĞRA KILIÇ is created
+2021-02-06 17:09:19,104 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student EMRE OKUL is created
+2021-02-06 17:09:19,105 - INFO - Poll_7W4-3_OO output for student EMRE OKUL is created
+2021-02-06 17:09:19,107 - INFO - Poll_13W8-1_Iteration_Artifacts output for student EMRE OKUL is created
+2021-02-06 17:09:19,108 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student EMRE OKUL is created
+2021-02-06 17:09:19,108 - INFO - Poll_4Week_3 output for student EMRE OKUL is created
+2021-02-06 17:09:19,110 - INFO - Poll_2W4-3_Object_Orientation output for student EMRE OKUL is created
+2021-02-06 17:09:19,111 - INFO - Poll_1OOSD_Software_Activities output for student EMRE OKUL is created
+2021-02-06 17:09:19,112 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ENES GARİP is created
+2021-02-06 17:09:19,113 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ENES GARİP is created
+2021-02-06 17:09:19,114 - INFO - Poll_7W4-3_OO output for student ENES GARİP is created
+2021-02-06 17:09:19,116 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ENES GARİP is created
+2021-02-06 17:09:19,117 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ENES GARİP is created
+2021-02-06 17:09:19,118 - INFO - Poll_4Week_3 output for student ENES GARİP is created
+2021-02-06 17:09:19,119 - INFO - Poll_2W4-3_Object_Orientation output for student ENES GARİP is created
+2021-02-06 17:09:19,120 - INFO - Poll_1OOSD_Software_Activities output for student ENES GARİP is created
+2021-02-06 17:09:19,122 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ENGİN BEKTAŞ is created
+2021-02-06 17:09:19,123 - INFO - Poll_7W4-3_OO output for student ENGİN BEKTAŞ is created
+2021-02-06 17:09:19,125 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ENGİN BEKTAŞ is created
+2021-02-06 17:09:19,126 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ENGİN BEKTAŞ is created
+2021-02-06 17:09:19,127 - INFO - Poll_4Week_3 output for student ENGİN BEKTAŞ is created
+2021-02-06 17:09:19,128 - INFO - Poll_1OOSD_Software_Activities output for student ENGİN BEKTAŞ is created
+2021-02-06 17:09:19,129 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ERDEM AÇILDI is created
+2021-02-06 17:09:19,131 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ERDEM AĞCA is created
+2021-02-06 17:09:19,132 - INFO - Poll_7W4-3_OO output for student ERDEM AĞCA is created
+2021-02-06 17:09:19,134 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ERDEM AĞCA is created
+2021-02-06 17:09:19,134 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ERDEM AĞCA is created
+2021-02-06 17:09:19,136 - INFO - Poll_4Week_3 output for student ERDEM AĞCA is created
+2021-02-06 17:09:19,137 - INFO - Poll_1OOSD_Software_Activities output for student ERDEM AĞCA is created
+2021-02-06 17:09:19,138 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ERHAN YALNIZ is created
+2021-02-06 17:09:19,140 - INFO - Poll_7W4-3_OO output for student ERHAN YALNIZ is created
+2021-02-06 17:09:19,142 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ERHAN YALNIZ is created
+2021-02-06 17:09:19,143 - INFO - Poll_4Week_3 output for student ERHAN YALNIZ is created
+2021-02-06 17:09:19,145 - INFO - Poll_2W4-3_Object_Orientation output for student ERHAN YALNIZ is created
+2021-02-06 17:09:19,145 - INFO - Poll_1OOSD_Software_Activities output for student ERHAN YALNIZ is created
+2021-02-06 17:09:19,147 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ERMAN KUNDAKCIOĞLU is created
+2021-02-06 17:09:19,148 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ESRAA ISMAIL TAHA TURKY ESRAA ISMAIL TAHA TURKY is created
+2021-02-06 17:09:19,149 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ESRAA ISMAIL TAHA TURKY ESRAA ISMAIL TAHA TURKY is created
+2021-02-06 17:09:19,151 - INFO - Poll_7W4-3_OO output for student ESRAA ISMAIL TAHA TURKY ESRAA ISMAIL TAHA TURKY is created
+2021-02-06 17:09:19,153 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ESRAA ISMAIL TAHA TURKY ESRAA ISMAIL TAHA TURKY is created
+2021-02-06 17:09:19,154 - INFO - Poll_1OOSD_Software_Activities output for student ESRAA ISMAIL TAHA TURKY ESRAA ISMAIL TAHA TURKY is created
+2021-02-06 17:09:19,155 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student EYMEN TOPÇUOĞLU is created
+2021-02-06 17:09:19,156 - INFO - Poll_7W4-3_OO output for student EYMEN TOPÇUOĞLU is created
+2021-02-06 17:09:19,158 - INFO - Poll_13W8-1_Iteration_Artifacts output for student EYMEN TOPÇUOĞLU is created
+2021-02-06 17:09:19,159 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student EYMEN TOPÇUOĞLU is created
+2021-02-06 17:09:19,160 - INFO - Poll_4Week_3 output for student EYMEN TOPÇUOĞLU is created
+2021-02-06 17:09:19,161 - INFO - Poll_2W4-3_Object_Orientation output for student EYMEN TOPÇUOĞLU is created
+2021-02-06 17:09:19,162 - INFO - Poll_1OOSD_Software_Activities output for student EYMEN TOPÇUOĞLU is created
+2021-02-06 17:09:19,164 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student EYÜP ÖZKUL is created
+2021-02-06 17:09:19,165 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student EYÜP ÖZKUL is created
+2021-02-06 17:09:19,166 - INFO - Poll_7W4-3_OO output for student EYÜP ÖZKUL is created
+2021-02-06 17:09:19,168 - INFO - Poll_13W8-1_Iteration_Artifacts output for student EYÜP ÖZKUL is created
+2021-02-06 17:09:19,170 - INFO - Poll_4Week_3 output for student EYÜP ÖZKUL is created
+2021-02-06 17:09:19,172 - INFO - Poll_2W4-3_Object_Orientation output for student EYÜP ÖZKUL is created
+2021-02-06 17:09:19,174 - INFO - Poll_7W4-3_OO output for student EZGİ DOĞRUER is created
+2021-02-06 17:09:19,175 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student EZGİ DOĞRUER is created
+2021-02-06 17:09:19,176 - INFO - Poll_4Week_3 output for student EZGİ DOĞRUER is created
+2021-02-06 17:09:19,177 - INFO - Poll_1OOSD_Software_Activities output for student EZGİ DOĞRUER is created
+2021-02-06 17:09:19,178 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student FAROUK TIJJANI MOHAMMED DERIBE is created
+2021-02-06 17:09:19,180 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student FAROUK TIJJANI MOHAMMED DERIBE is created
+2021-02-06 17:09:19,181 - INFO - Poll_7W4-3_OO output for student FAROUK TIJJANI MOHAMMED DERIBE is created
+2021-02-06 17:09:19,183 - INFO - Poll_13W8-1_Iteration_Artifacts output for student FAROUK TIJJANI MOHAMMED DERIBE is created
+2021-02-06 17:09:19,184 - INFO - Poll_7W4-3_OO output for student FATİH AKGÜNDÜZ is created
+2021-02-06 17:09:19,186 - INFO - Poll_2W4-3_Object_Orientation output for student FATİH AKGÜNDÜZ is created
+2021-02-06 17:09:19,187 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student FATİH BAŞ is created
+2021-02-06 17:09:19,188 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student FATİH BAŞ is created
+2021-02-06 17:09:19,189 - INFO - Poll_7W4-3_OO output for student FATİH BAŞ is created
+2021-02-06 17:09:19,191 - INFO - Poll_13W8-1_Iteration_Artifacts output for student FATİH BAŞ is created
+2021-02-06 17:09:19,192 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student FATİH BAŞ is created
+2021-02-06 17:09:19,193 - INFO - Poll_4Week_3 output for student FATİH BAŞ is created
+2021-02-06 17:09:19,194 - INFO - Poll_2W4-3_Object_Orientation output for student FATİH BAŞ is created
+2021-02-06 17:09:19,195 - INFO - Poll_1OOSD_Software_Activities output for student FATİH BAŞ is created
+2021-02-06 17:09:19,197 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student FATİH EMİN ÖGE is created
+2021-02-06 17:09:19,198 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student FATİH EMİN ÖGE is created
+2021-02-06 17:09:19,199 - INFO - Poll_7W4-3_OO output for student FATİH EMİN ÖGE is created
+2021-02-06 17:09:19,201 - INFO - Poll_13W8-1_Iteration_Artifacts output for student FATİH EMİN ÖGE is created
+2021-02-06 17:09:19,202 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student FATİH EMİN ÖGE is created
+2021-02-06 17:09:19,203 - INFO - Poll_4Week_3 output for student FATİH EMİN ÖGE is created
+2021-02-06 17:09:19,204 - INFO - Poll_2W4-3_Object_Orientation output for student FATİH EMİN ÖGE is created
+2021-02-06 17:09:19,205 - INFO - Poll_1OOSD_Software_Activities output for student FATİH EMİN ÖGE is created
+2021-02-06 17:09:19,206 - INFO - Poll_4Week_3 output for student FATİH MURAT KARAKAYA is created
+2021-02-06 17:09:19,207 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student FEYZA NUR BULGURCU is created
+2021-02-06 17:09:19,209 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student FEYZA NUR BULGURCU is created
+2021-02-06 17:09:19,210 - INFO - Poll_7W4-3_OO output for student FEYZA NUR BULGURCU is created
+2021-02-06 17:09:19,211 - INFO - Poll_13W8-1_Iteration_Artifacts output for student FEYZA NUR BULGURCU is created
+2021-02-06 17:09:19,212 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student FEYZA NUR BULGURCU is created
+2021-02-06 17:09:19,213 - INFO - Poll_4Week_3 output for student FEYZA NUR BULGURCU is created
+2021-02-06 17:09:19,215 - INFO - Poll_2W4-3_Object_Orientation output for student FEYZA NUR BULGURCU is created
+2021-02-06 17:09:19,216 - INFO - Poll_1OOSD_Software_Activities output for student FEYZA NUR BULGURCU is created
+2021-02-06 17:09:19,217 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student FURKAN AKMAN is created
+2021-02-06 17:09:19,218 - INFO - Poll_7W4-3_OO output for student FURKAN AKMAN is created
+2021-02-06 17:09:19,220 - INFO - Poll_13W8-1_Iteration_Artifacts output for student FURKAN AKMAN is created
+2021-02-06 17:09:19,221 - INFO - Poll_1OOSD_Software_Activities output for student FURKAN AKMAN is created
+2021-02-06 17:09:19,223 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student GÖKBERK ÇELİKMASAT is created
+2021-02-06 17:09:19,224 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student GÖKBERK ÇELİKMASAT is created
+2021-02-06 17:09:19,225 - INFO - Poll_7W4-3_OO output for student GÖKBERK ÇELİKMASAT is created
+2021-02-06 17:09:19,227 - INFO - Poll_13W8-1_Iteration_Artifacts output for student GÖKBERK ÇELİKMASAT is created
+2021-02-06 17:09:19,228 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student GÖKBERK ÇELİKMASAT is created
+2021-02-06 17:09:19,228 - INFO - Poll_4Week_3 output for student GÖKBERK ÇELİKMASAT is created
+2021-02-06 17:09:19,230 - INFO - Poll_2W4-3_Object_Orientation output for student GÖKBERK ÇELİKMASAT is created
+2021-02-06 17:09:19,231 - INFO - Poll_1OOSD_Software_Activities output for student GÖKBERK ÇELİKMASAT is created
+2021-02-06 17:09:19,232 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student GÜNEŞ YÜZAK is created
+2021-02-06 17:09:19,244 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student GÜNEŞ YÜZAK is created
+2021-02-06 17:09:19,246 - INFO - Poll_7W4-3_OO output for student GÜNEŞ YÜZAK is created
+2021-02-06 17:09:19,247 - INFO - Poll_13W8-1_Iteration_Artifacts output for student GÜNEŞ YÜZAK is created
+2021-02-06 17:09:19,248 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student GÜNEŞ YÜZAK is created
+2021-02-06 17:09:19,249 - INFO - Poll_4Week_3 output for student GÜNEŞ YÜZAK is created
+2021-02-06 17:09:19,250 - INFO - Poll_2W4-3_Object_Orientation output for student GÜNEŞ YÜZAK is created
+2021-02-06 17:09:19,251 - INFO - Poll_1OOSD_Software_Activities output for student GÜNEŞ YÜZAK is created
+2021-02-06 17:09:19,252 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student HAFSA ULUSAL is created
+2021-02-06 17:09:19,254 - INFO - Poll_7W4-3_OO output for student HAFSA ULUSAL is created
+2021-02-06 17:09:19,255 - INFO - Poll_13W8-1_Iteration_Artifacts output for student HAFSA ULUSAL is created
+2021-02-06 17:09:19,256 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student HAFSA ULUSAL is created
+2021-02-06 17:09:19,257 - INFO - Poll_4Week_3 output for student HAFSA ULUSAL is created
+2021-02-06 17:09:19,258 - INFO - Poll_2W4-3_Object_Orientation output for student HAFSA ULUSAL is created
+2021-02-06 17:09:19,259 - INFO - Poll_1OOSD_Software_Activities output for student HAFSA ULUSAL is created
+2021-02-06 17:09:19,260 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student HAKAN ÖZER is created
+2021-02-06 17:09:19,261 - INFO - Poll_7W4-3_OO output for student HAKAN ÖZER is created
+2021-02-06 17:09:19,263 - INFO - Poll_13W8-1_Iteration_Artifacts output for student HAKAN ÖZER is created
+2021-02-06 17:09:19,264 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student HAKAN ÖZER is created
+2021-02-06 17:09:19,265 - INFO - Poll_4Week_3 output for student HAKAN ÖZER is created
+2021-02-06 17:09:19,266 - INFO - Poll_2W4-3_Object_Orientation output for student HAKAN ÖZER is created
+2021-02-06 17:09:19,267 - INFO - Poll_1OOSD_Software_Activities output for student HAKAN ÖZER is created
+2021-02-06 17:09:19,268 - INFO - Poll_7W4-3_OO output for student HALİL DEMİR is created
+2021-02-06 17:09:19,270 - INFO - Poll_13W8-1_Iteration_Artifacts output for student HALİL DEMİR is created
+2021-02-06 17:09:19,271 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student HALİL DEMİR is created
+2021-02-06 17:09:19,272 - INFO - Poll_2W4-3_Object_Orientation output for student HALİL DEMİR is created
+2021-02-06 17:09:19,273 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student HAMZA TÜRKMEN is created
+2021-02-06 17:09:19,274 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student HAMZA TÜRKMEN is created
+2021-02-06 17:09:19,276 - INFO - Poll_7W4-3_OO output for student HAMZA TÜRKMEN is created
+2021-02-06 17:09:19,277 - INFO - Poll_13W8-1_Iteration_Artifacts output for student HAMZA TÜRKMEN is created
+2021-02-06 17:09:19,278 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student HAMZA TÜRKMEN is created
+2021-02-06 17:09:19,279 - INFO - Poll_4Week_3 output for student HAMZA TÜRKMEN is created
+2021-02-06 17:09:19,280 - INFO - Poll_2W4-3_Object_Orientation output for student HAMZA TÜRKMEN is created
+2021-02-06 17:09:19,281 - INFO - Poll_1OOSD_Software_Activities output for student HAMZA TÜRKMEN is created
+2021-02-06 17:09:19,283 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student HARUN SARI is created
+2021-02-06 17:09:19,284 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student HARUN SARI is created
+2021-02-06 17:09:19,285 - INFO - Poll_7W4-3_OO output for student HARUN SARI is created
+2021-02-06 17:09:19,287 - INFO - Poll_13W8-1_Iteration_Artifacts output for student HARUN SARI is created
+2021-02-06 17:09:19,288 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student HARUN SARI is created
+2021-02-06 17:09:19,289 - INFO - Poll_4Week_3 output for student HARUN SARI is created
+2021-02-06 17:09:19,290 - INFO - Poll_2W4-3_Object_Orientation output for student HARUN SARI is created
+2021-02-06 17:09:19,291 - INFO - Poll_1OOSD_Software_Activities output for student HARUN SARI is created
+2021-02-06 17:09:19,292 - INFO - Poll_7W4-3_OO output for student HASANCAN ÖZEN is created
+2021-02-06 17:09:19,294 - INFO - Poll_13W8-1_Iteration_Artifacts output for student HASANCAN ÖZEN is created
+2021-02-06 17:09:19,295 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student HASANCAN ÖZEN is created
+2021-02-06 17:09:19,295 - INFO - Poll_4Week_3 output for student HASANCAN ÖZEN is created
+2021-02-06 17:09:19,297 - INFO - Poll_2W4-3_Object_Orientation output for student HASANCAN ÖZEN is created
+2021-02-06 17:09:19,297 - INFO - Poll_1OOSD_Software_Activities output for student HASANCAN ÖZEN is created
+2021-02-06 17:09:19,299 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student HAYRULLAH ÇAĞIL is created
+2021-02-06 17:09:19,300 - INFO - Poll_7W4-3_OO output for student HAYRULLAH ÇAĞIL is created
+2021-02-06 17:09:19,301 - INFO - Poll_13W8-1_Iteration_Artifacts output for student HAYRULLAH ÇAĞIL is created
+2021-02-06 17:09:19,302 - INFO - Poll_4Week_3 output for student HAYRULLAH ÇAĞIL is created
+2021-02-06 17:09:19,304 - INFO - Poll_2W4-3_Object_Orientation output for student HAYRULLAH ÇAĞIL is created
+2021-02-06 17:09:19,305 - INFO - Poll_1OOSD_Software_Activities output for student HAYRULLAH ÇAĞIL is created
+2021-02-06 17:09:19,306 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student HUZEYFE AYAZ is created
+2021-02-06 17:09:19,307 - INFO - Poll_7W4-3_OO output for student HUZEYFE AYAZ is created
+2021-02-06 17:09:19,309 - INFO - Poll_13W8-1_Iteration_Artifacts output for student HUZEYFE AYAZ is created
+2021-02-06 17:09:19,310 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student HUZEYFE AYAZ is created
+2021-02-06 17:09:19,311 - INFO - Poll_2W4-3_Object_Orientation output for student HUZEYFE AYAZ is created
+2021-02-06 17:09:19,312 - INFO - Poll_1OOSD_Software_Activities output for student HUZEYFE AYAZ is created
+2021-02-06 17:09:19,313 - INFO - Poll_7W4-3_OO output for student HÜSEYİN DEMİR is created
+2021-02-06 17:09:19,314 - INFO - Poll_13W8-1_Iteration_Artifacts output for student HÜSEYİN DEMİR is created
+2021-02-06 17:09:19,315 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student HÜSEYİN DEMİR is created
+2021-02-06 17:09:19,316 - INFO - Poll_4Week_3 output for student HÜSEYİN DEMİR is created
+2021-02-06 17:09:19,317 - INFO - Poll_1OOSD_Software_Activities output for student HÜSEYİN DEMİR is created
+2021-02-06 17:09:19,318 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student İNSAF ÖZGE BERKTAŞ is created
+2021-02-06 17:09:19,319 - INFO - Poll_7W4-3_OO output for student İNSAF ÖZGE BERKTAŞ is created
+2021-02-06 17:09:19,321 - INFO - Poll_13W8-1_Iteration_Artifacts output for student İNSAF ÖZGE BERKTAŞ is created
+2021-02-06 17:09:19,322 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student İNSAF ÖZGE BERKTAŞ is created
+2021-02-06 17:09:19,323 - INFO - Poll_4Week_3 output for student İNSAF ÖZGE BERKTAŞ is created
+2021-02-06 17:09:19,324 - INFO - Poll_2W4-3_Object_Orientation output for student İNSAF ÖZGE BERKTAŞ is created
+2021-02-06 17:09:19,325 - INFO - Poll_1OOSD_Software_Activities output for student İNSAF ÖZGE BERKTAŞ is created
+2021-02-06 17:09:19,326 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student İREM SAYGİN is created
+2021-02-06 17:09:19,328 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student İREM SAYGİN is created
+2021-02-06 17:09:19,329 - INFO - Poll_7W4-3_OO output for student İREM SAYGİN is created
+2021-02-06 17:09:19,330 - INFO - Poll_13W8-1_Iteration_Artifacts output for student İREM SAYGİN is created
+2021-02-06 17:09:19,331 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student İREM SAYGİN is created
+2021-02-06 17:09:19,333 - INFO - Poll_2W4-3_Object_Orientation output for student İREM SAYGİN is created
+2021-02-06 17:09:19,334 - INFO - Poll_1OOSD_Software_Activities output for student İREM SAYGİN is created
+2021-02-06 17:09:19,335 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student İSMAİL ERTAN SARIHAN is created
+2021-02-06 17:09:19,337 - INFO - Poll_13W8-1_Iteration_Artifacts output for student İSMAİL ERTAN SARIHAN is created
+2021-02-06 17:09:19,338 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student İSRA NUR ALPEREN is created
+2021-02-06 17:09:19,339 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student İSRA NUR ALPEREN is created
+2021-02-06 17:09:19,340 - INFO - Poll_7W4-3_OO output for student İSRA NUR ALPEREN is created
+2021-02-06 17:09:19,342 - INFO - Poll_13W8-1_Iteration_Artifacts output for student İSRA NUR ALPEREN is created
+2021-02-06 17:09:19,343 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student İSRA NUR ALPEREN is created
+2021-02-06 17:09:19,344 - INFO - Poll_2W4-3_Object_Orientation output for student İSRA NUR ALPEREN is created
+2021-02-06 17:09:19,346 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student KADİR ACUN is created
+2021-02-06 17:09:19,347 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student KADİR ACUN is created
+2021-02-06 17:09:19,348 - INFO - Poll_7W4-3_OO output for student KADİR ACUN is created
+2021-02-06 17:09:19,350 - INFO - Poll_13W8-1_Iteration_Artifacts output for student KADİR ACUN is created
+2021-02-06 17:09:19,351 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student KADİR ACUN is created
+2021-02-06 17:09:19,352 - INFO - Poll_4Week_3 output for student KADİR ACUN is created
+2021-02-06 17:09:19,353 - INFO - Poll_2W4-3_Object_Orientation output for student KADİR ACUN is created
+2021-02-06 17:09:19,354 - INFO - Poll_1OOSD_Software_Activities output for student KADİR ACUN is created
+2021-02-06 17:09:19,355 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student KEMAL CAN BOZKURT is created
+2021-02-06 17:09:19,357 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student KHALED AHMED MOSTAFA MOHAMED YASSEN is created
+2021-02-06 17:09:19,358 - INFO - Poll_7W4-3_OO output for student KHALED AHMED MOSTAFA MOHAMED YASSEN is created
+2021-02-06 17:09:19,359 - INFO - Poll_13W8-1_Iteration_Artifacts output for student KHALED AHMED MOSTAFA MOHAMED YASSEN is created
+2021-02-06 17:09:19,360 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student KHALED AHMED MOSTAFA MOHAMED YASSEN is created
+2021-02-06 17:09:19,361 - INFO - Poll_4Week_3 output for student KHALED AHMED MOSTAFA MOHAMED YASSEN is created
+2021-02-06 17:09:19,362 - INFO - Poll_2W4-3_Object_Orientation output for student KHALED AHMED MOSTAFA MOHAMED YASSEN is created
+2021-02-06 17:09:19,363 - INFO - Poll_1OOSD_Software_Activities output for student KHALED AHMED MOSTAFA MOHAMED YASSEN is created
+2021-02-06 17:09:19,365 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student KORAY EMRE ŞENEL is created
+2021-02-06 17:09:19,366 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student KORAY EMRE ŞENEL is created
+2021-02-06 17:09:19,367 - INFO - Poll_7W4-3_OO output for student KORAY EMRE ŞENEL is created
+2021-02-06 17:09:19,369 - INFO - Poll_13W8-1_Iteration_Artifacts output for student KORAY EMRE ŞENEL is created
+2021-02-06 17:09:19,370 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student KORAY EMRE ŞENEL is created
+2021-02-06 17:09:19,370 - INFO - Poll_4Week_3 output for student KORAY EMRE ŞENEL is created
+2021-02-06 17:09:19,372 - INFO - Poll_2W4-3_Object_Orientation output for student KORAY EMRE ŞENEL is created
+2021-02-06 17:09:19,373 - INFO - Poll_1OOSD_Software_Activities output for student KORAY EMRE ŞENEL is created
+2021-02-06 17:09:19,374 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student LARA GÜLSÜM ŞEN is created
+2021-02-06 17:09:19,375 - INFO - Poll_7W4-3_OO output for student LARA GÜLSÜM ŞEN is created
+2021-02-06 17:09:19,377 - INFO - Poll_13W8-1_Iteration_Artifacts output for student LARA GÜLSÜM ŞEN is created
+2021-02-06 17:09:19,378 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student LARA GÜLSÜM ŞEN is created
+2021-02-06 17:09:19,379 - INFO - Poll_4Week_3 output for student LARA GÜLSÜM ŞEN is created
+2021-02-06 17:09:19,380 - INFO - Poll_2W4-3_Object_Orientation output for student LARA GÜLSÜM ŞEN is created
+2021-02-06 17:09:19,381 - INFO - Poll_1OOSD_Software_Activities output for student LARA GÜLSÜM ŞEN is created
+2021-02-06 17:09:19,382 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MAHMUT SALMAN is created
+2021-02-06 17:09:19,383 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MAHMUT SALMAN is created
+2021-02-06 17:09:19,384 - INFO - Poll_4Week_3 output for student MAHMUT SALMAN is created
+2021-02-06 17:09:19,385 - INFO - Poll_1OOSD_Software_Activities output for student MAHMUT SALMAN is created
+2021-02-06 17:09:19,386 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MAHMUT HİLMİ ARIKMERT is created
+2021-02-06 17:09:19,387 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MAHMUT HİLMİ ARIKMERT is created
+2021-02-06 17:09:19,388 - INFO - Poll_7W4-3_OO output for student MAHMUT HİLMİ ARIKMERT is created
+2021-02-06 17:09:19,390 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MAHMUT HİLMİ ARIKMERT is created
+2021-02-06 17:09:19,391 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MAHMUT HİLMİ ARIKMERT is created
+2021-02-06 17:09:19,392 - INFO - Poll_4Week_3 output for student MAHMUT HİLMİ ARIKMERT is created
+2021-02-06 17:09:19,393 - INFO - Poll_2W4-3_Object_Orientation output for student MAHMUT HİLMİ ARIKMERT is created
+2021-02-06 17:09:19,394 - INFO - Poll_1OOSD_Software_Activities output for student MAHMUT HİLMİ ARIKMERT is created
+2021-02-06 17:09:19,395 - INFO - Poll_7W4-3_OO output for student MEHMET YILMAZ is created
+2021-02-06 17:09:19,397 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MEHMET YILMAZ is created
+2021-02-06 17:09:19,398 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MEHMET YILMAZ is created
+2021-02-06 17:09:19,398 - INFO - Poll_4Week_3 output for student MEHMET YILMAZ is created
+2021-02-06 17:09:19,400 - INFO - Poll_2W4-3_Object_Orientation output for student MEHMET YILMAZ is created
+2021-02-06 17:09:19,401 - INFO - Poll_1OOSD_Software_Activities output for student MEHMET YILMAZ is created
+2021-02-06 17:09:19,402 - INFO - Poll_7W4-3_OO output for student MEHMET ALİ GÖZÜKIZIL is created
+2021-02-06 17:09:19,402 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MEHMET ALİ GÖZÜKIZIL is created
+2021-02-06 17:09:19,403 - INFO - Poll_4Week_3 output for student MEHMET ALİ GÖZÜKIZIL is created
+2021-02-06 17:09:19,404 - INFO - Poll_2W4-3_Object_Orientation output for student MEHMET ALİ GÖZÜKIZIL is created
+2021-02-06 17:09:19,406 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MEHMET ALİ YÜKSEL is created
+2021-02-06 17:09:19,407 - INFO - Poll_7W4-3_OO output for student MEHMET ALİ YÜKSEL is created
+2021-02-06 17:09:19,409 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MEHMET ALİ YÜKSEL is created
+2021-02-06 17:09:19,410 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MEHMET ALİ YÜKSEL is created
+2021-02-06 17:09:19,411 - INFO - Poll_4Week_3 output for student MEHMET ALİ YÜKSEL is created
+2021-02-06 17:09:19,412 - INFO - Poll_2W4-3_Object_Orientation output for student MEHMET ALİ YÜKSEL is created
+2021-02-06 17:09:19,413 - INFO - Poll_1OOSD_Software_Activities output for student MEHMET ALİ YÜKSEL is created
+2021-02-06 17:09:19,414 - INFO - Poll_7W4-3_OO output for student MEHMET NUSRET ODABAŞI is created
+2021-02-06 17:09:19,416 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MEHMET NUSRET ODABAŞI is created
+2021-02-06 17:09:19,417 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MEHMET NUSRET ODABAŞI is created
+2021-02-06 17:09:19,417 - INFO - Poll_4Week_3 output for student MEHMET NUSRET ODABAŞI is created
+2021-02-06 17:09:19,427 - INFO - Poll_2W4-3_Object_Orientation output for student MEHMET NUSRET ODABAŞI is created
+2021-02-06 17:09:19,428 - INFO - Poll_1OOSD_Software_Activities output for student MEHMET NUSRET ODABAŞI is created
+2021-02-06 17:09:19,429 - INFO - Poll_7W4-3_OO output for student MEHMET SOYKAN MUTLU is created
+2021-02-06 17:09:19,430 - INFO - Poll_4Week_3 output for student MEHMET SOYKAN MUTLU is created
+2021-02-06 17:09:19,431 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MELİK ÇAĞAN ODUNCUOĞLU is created
+2021-02-06 17:09:19,432 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MELİK ÇAĞAN ODUNCUOĞLU is created
+2021-02-06 17:09:19,434 - INFO - Poll_7W4-3_OO output for student MELİK ÇAĞAN ODUNCUOĞLU is created
+2021-02-06 17:09:19,435 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MELİK ÇAĞAN ODUNCUOĞLU is created
+2021-02-06 17:09:19,436 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MELİK ÇAĞAN ODUNCUOĞLU is created
+2021-02-06 17:09:19,437 - INFO - Poll_4Week_3 output for student MELİK ÇAĞAN ODUNCUOĞLU is created
+2021-02-06 17:09:19,438 - INFO - Poll_2W4-3_Object_Orientation output for student MELİK ÇAĞAN ODUNCUOĞLU is created
+2021-02-06 17:09:19,439 - INFO - Poll_1OOSD_Software_Activities output for student MELİK ÇAĞAN ODUNCUOĞLU is created
+2021-02-06 17:09:19,440 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MERT MENGÜ is created
+2021-02-06 17:09:19,441 - INFO - Poll_7W4-3_OO output for student MERT MENGÜ is created
+2021-02-06 17:09:19,443 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MERT MENGÜ is created
+2021-02-06 17:09:19,444 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MERTKAN TURAN is created
+2021-02-06 17:09:19,446 - INFO - Poll_7W4-3_OO output for student MERTKAN TURAN is created
+2021-02-06 17:09:19,446 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MERTKAN TURAN is created
+2021-02-06 17:09:19,447 - INFO - Poll_4Week_3 output for student MERTKAN TURAN is created
+2021-02-06 17:09:19,448 - INFO - Poll_2W4-3_Object_Orientation output for student MERTKAN TURAN is created
+2021-02-06 17:09:19,450 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MERVE ŞAHİN is created
+2021-02-06 17:09:19,451 - INFO - Poll_7W4-3_OO output for student MERVE ŞAHİN is created
+2021-02-06 17:09:19,453 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MERVE ŞAHİN is created
+2021-02-06 17:09:19,454 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MERVE ŞAHİN is created
+2021-02-06 17:09:19,454 - INFO - Poll_4Week_3 output for student MERVE ŞAHİN is created
+2021-02-06 17:09:19,456 - INFO - Poll_2W4-3_Object_Orientation output for student MERVE ŞAHİN is created
+2021-02-06 17:09:19,457 - INFO - Poll_1OOSD_Software_Activities output for student MERVE ŞAHİN is created
+2021-02-06 17:09:19,458 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MERVE RANA KIZIL is created
+2021-02-06 17:09:19,459 - INFO - Poll_7W4-3_OO output for student MERVE RANA KIZIL is created
+2021-02-06 17:09:19,461 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MERVE RANA KIZIL is created
+2021-02-06 17:09:19,462 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MERVE RANA KIZIL is created
+2021-02-06 17:09:19,462 - INFO - Poll_4Week_3 output for student MERVE RANA KIZIL is created
+2021-02-06 17:09:19,464 - INFO - Poll_2W4-3_Object_Orientation output for student MERVE RANA KIZIL is created
+2021-02-06 17:09:19,464 - INFO - Poll_1OOSD_Software_Activities output for student MERVE RANA KIZIL is created
+2021-02-06 17:09:19,466 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MEVLÜT EREN TOPAL is created
+2021-02-06 17:09:19,467 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MEVLÜT EREN TOPAL is created
+2021-02-06 17:09:19,469 - INFO - Poll_2W4-3_Object_Orientation output for student MEVLÜT EREN TOPAL is created
+2021-02-06 17:09:19,470 - INFO - Poll_7W4-3_OO output for student MİKAİL TORUN is created
+2021-02-06 17:09:19,471 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MİKAİL TORUN is created
+2021-02-06 17:09:19,472 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MİKAİL TORUN is created
+2021-02-06 17:09:19,473 - INFO - Poll_2W4-3_Object_Orientation output for student MİKAİL TORUN is created
+2021-02-06 17:09:19,474 - INFO - Poll_1OOSD_Software_Activities output for student MİKAİL TORUN is created
+2021-02-06 17:09:19,476 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMAD ISMAIL is created
+2021-02-06 17:09:19,477 - INFO - Poll_7W4-3_OO output for student MUHAMMAD ISMAIL is created
+2021-02-06 17:09:19,478 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MUHAMMAD ISMAIL is created
+2021-02-06 17:09:19,479 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MUHAMMAD ISMAIL is created
+2021-02-06 17:09:19,480 - INFO - Poll_4Week_3 output for student MUHAMMAD ISMAIL is created
+2021-02-06 17:09:19,481 - INFO - Poll_2W4-3_Object_Orientation output for student MUHAMMAD ISMAIL is created
+2021-02-06 17:09:19,482 - INFO - Poll_1OOSD_Software_Activities output for student MUHAMMAD ISMAIL is created
+2021-02-06 17:09:19,484 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMED ENES AKTÜRK is created
+2021-02-06 17:09:19,485 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMED ENES AKTÜRK is created
+2021-02-06 17:09:19,486 - INFO - Poll_7W4-3_OO output for student MUHAMMED ENES AKTÜRK is created
+2021-02-06 17:09:19,488 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MUHAMMED ENES AKTÜRK is created
+2021-02-06 17:09:19,489 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MUHAMMED ENES AKTÜRK is created
+2021-02-06 17:09:19,489 - INFO - Poll_4Week_3 output for student MUHAMMED ENES AKTÜRK is created
+2021-02-06 17:09:19,491 - INFO - Poll_2W4-3_Object_Orientation output for student MUHAMMED ENES AKTÜRK is created
+2021-02-06 17:09:19,492 - INFO - Poll_1OOSD_Software_Activities output for student MUHAMMED ENES AKTÜRK is created
+2021-02-06 17:09:19,493 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMED FATİH ÖZTEL is created
+2021-02-06 17:09:19,494 - INFO - Poll_7W4-3_OO output for student MUHAMMED FATİH ÖZTEL is created
+2021-02-06 17:09:19,496 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MUHAMMED FATİH ÖZTEL is created
+2021-02-06 17:09:19,496 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MUHAMMED FATİH ÖZTEL is created
+2021-02-06 17:09:19,498 - INFO - Poll_4Week_3 output for student MUHAMMED FATİH ÖZTEL is created
+2021-02-06 17:09:19,499 - INFO - Poll_1OOSD_Software_Activities output for student MUHAMMED FATİH ÖZTEL is created
+2021-02-06 17:09:19,500 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMED RAŞİT AYAZ is created
+2021-02-06 17:09:19,503 - INFO - Poll_7W4-3_OO output for student MUHAMMED RAŞİT AYAZ is created
+2021-02-06 17:09:19,506 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MUHAMMED RAŞİT AYAZ is created
+2021-02-06 17:09:19,508 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MUHAMMED RAŞİT AYAZ is created
+2021-02-06 17:09:19,509 - INFO - Poll_4Week_3 output for student MUHAMMED RAŞİT AYAZ is created
+2021-02-06 17:09:19,511 - INFO - Poll_2W4-3_Object_Orientation output for student MUHAMMED RAŞİT AYAZ is created
+2021-02-06 17:09:19,512 - INFO - Poll_1OOSD_Software_Activities output for student MUHAMMED RAŞİT AYAZ is created
+2021-02-06 17:09:19,513 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMET ÇETİNKAYA is created
+2021-02-06 17:09:19,514 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMET ÇETİNKAYA is created
+2021-02-06 17:09:19,516 - INFO - Poll_7W4-3_OO output for student MUHAMMET ÇETİNKAYA is created
+2021-02-06 17:09:19,517 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MUHAMMET ÇETİNKAYA is created
+2021-02-06 17:09:19,518 - INFO - Poll_4Week_3 output for student MUHAMMET ÇETİNKAYA is created
+2021-02-06 17:09:19,522 - INFO - Poll_2W4-3_Object_Orientation output for student MUHAMMET ÇETİNKAYA is created
+2021-02-06 17:09:19,525 - INFO - Poll_1OOSD_Software_Activities output for student MUHAMMET ÇETİNKAYA is created
+2021-02-06 17:09:19,527 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMET HASAN ALBAYRAK is created
+2021-02-06 17:09:19,529 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMET HASAN ALBAYRAK is created
+2021-02-06 17:09:19,530 - INFO - Poll_7W4-3_OO output for student MUHAMMET HASAN ALBAYRAK is created
+2021-02-06 17:09:19,532 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MUHAMMET HASAN ALBAYRAK is created
+2021-02-06 17:09:19,533 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MUHAMMET HASAN ALBAYRAK is created
+2021-02-06 17:09:19,534 - INFO - Poll_4Week_3 output for student MUHAMMET HASAN ALBAYRAK is created
+2021-02-06 17:09:19,536 - INFO - Poll_2W4-3_Object_Orientation output for student MUHAMMET HASAN ALBAYRAK is created
+2021-02-06 17:09:19,537 - INFO - Poll_1OOSD_Software_Activities output for student MUHAMMET HASAN ALBAYRAK is created
+2021-02-06 17:09:19,538 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMET KÜRŞAT AÇIKGÖZ is created
+2021-02-06 17:09:19,539 - INFO - Poll_7W4-3_OO output for student MUHAMMET KÜRŞAT AÇIKGÖZ is created
+2021-02-06 17:09:19,541 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MUHAMMET KÜRŞAT AÇIKGÖZ is created
+2021-02-06 17:09:19,542 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MUHAMMET KÜRŞAT AÇIKGÖZ is created
+2021-02-06 17:09:19,543 - INFO - Poll_4Week_3 output for student MUHAMMET KÜRŞAT AÇIKGÖZ is created
+2021-02-06 17:09:19,544 - INFO - Poll_2W4-3_Object_Orientation output for student MUHAMMET KÜRŞAT AÇIKGÖZ is created
+2021-02-06 17:09:19,545 - INFO - Poll_1OOSD_Software_Activities output for student MUHAMMET KÜRŞAT AÇIKGÖZ is created
+2021-02-06 17:09:19,546 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMET YASİN TUFAN is created
+2021-02-06 17:09:19,551 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUHAMMET YASİN TUFAN is created
+2021-02-06 17:09:19,553 - INFO - Poll_7W4-3_OO output for student MUHAMMET YASİN TUFAN is created
+2021-02-06 17:09:19,554 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MUHAMMET YASİN TUFAN is created
+2021-02-06 17:09:19,555 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MUHAMMET YASİN TUFAN is created
+2021-02-06 17:09:19,556 - INFO - Poll_4Week_3 output for student MUHAMMET YASİN TUFAN is created
+2021-02-06 17:09:19,558 - INFO - Poll_2W4-3_Object_Orientation output for student MUHAMMET YASİN TUFAN is created
+2021-02-06 17:09:19,559 - INFO - Poll_1OOSD_Software_Activities output for student MUHAMMET YASİN TUFAN is created
+2021-02-06 17:09:19,560 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUSTAFA GÜREL is created
+2021-02-06 17:09:19,561 - INFO - Poll_7W4-3_OO output for student MUSTAFA GÜREL is created
+2021-02-06 17:09:19,563 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MUSTAFA GÜREL is created
+2021-02-06 17:09:19,564 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MUSTAFA GÜREL is created
+2021-02-06 17:09:19,565 - INFO - Poll_2W4-3_Object_Orientation output for student MUSTAFA GÜREL is created
+2021-02-06 17:09:19,566 - INFO - Poll_1OOSD_Software_Activities output for student MUSTAFA GÜREL is created
+2021-02-06 17:09:19,567 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MUSTAFA KİBAROĞLU is created
+2021-02-06 17:09:19,568 - INFO - Poll_7W4-3_OO output for student MUSTAFA KİBAROĞLU is created
+2021-02-06 17:09:19,570 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MUSTAFA KİBAROĞLU is created
+2021-02-06 17:09:19,571 - INFO - Poll_2W4-3_Object_Orientation output for student MUSTAFA KİBAROĞLU is created
+2021-02-06 17:09:19,572 - INFO - Poll_1OOSD_Software_Activities output for student MUSTAFA KİBAROĞLU is created
+2021-02-06 17:09:19,574 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MÜMİN KOCAMAZ is created
+2021-02-06 17:09:19,575 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MÜMİN KOCAMAZ is created
+2021-02-06 17:09:19,577 - INFO - Poll_13W8-1_Iteration_Artifacts output for student MÜMİN KOCAMAZ is created
+2021-02-06 17:09:19,578 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student MÜMİN KOCAMAZ is created
+2021-02-06 17:09:19,579 - INFO - Poll_2W4-3_Object_Orientation output for student MÜMİN KOCAMAZ is created
+2021-02-06 17:09:19,580 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student NURHANDE AKYÜZ is created
+2021-02-06 17:09:19,581 - INFO - Poll_7W4-3_OO output for student NURHANDE AKYÜZ is created
+2021-02-06 17:09:19,583 - INFO - Poll_13W8-1_Iteration_Artifacts output for student NURHANDE AKYÜZ is created
+2021-02-06 17:09:19,584 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student NURHANDE AKYÜZ is created
+2021-02-06 17:09:19,585 - INFO - Poll_4Week_3 output for student NURHANDE AKYÜZ is created
+2021-02-06 17:09:19,586 - INFO - Poll_2W4-3_Object_Orientation output for student NURHANDE AKYÜZ is created
+2021-02-06 17:09:19,587 - INFO - Poll_1OOSD_Software_Activities output for student NURHANDE AKYÜZ is created
+2021-02-06 17:09:19,588 - INFO - Poll_7W4-3_OO output for student OĞUZHAN ERKOL is created
+2021-02-06 17:09:19,590 - INFO - Poll_13W8-1_Iteration_Artifacts output for student OĞUZHAN ERKOL is created
+2021-02-06 17:09:19,591 - INFO - Poll_2W4-3_Object_Orientation output for student OĞUZHAN ERKOL is created
+2021-02-06 17:09:19,593 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student OĞUZHAN TEZEL is created
+2021-02-06 17:09:19,594 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student OĞUZHAN TEZEL is created
+2021-02-06 17:09:19,595 - INFO - Poll_7W4-3_OO output for student OĞUZHAN TEZEL is created
+2021-02-06 17:09:19,597 - INFO - Poll_13W8-1_Iteration_Artifacts output for student OĞUZHAN TEZEL is created
+2021-02-06 17:09:19,598 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student OĞUZHAN TEZEL is created
+2021-02-06 17:09:19,598 - INFO - Poll_4Week_3 output for student OĞUZHAN TEZEL is created
+2021-02-06 17:09:19,600 - INFO - Poll_2W4-3_Object_Orientation output for student OĞUZHAN TEZEL is created
+2021-02-06 17:09:19,601 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student OĞUZHAN TOKER is created
+2021-02-06 17:09:19,602 - INFO - Poll_7W4-3_OO output for student OĞUZHAN TOKER is created
+2021-02-06 17:09:19,603 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student OĞUZHAN TOKER is created
+2021-02-06 17:09:19,604 - INFO - Poll_4Week_3 output for student OĞUZHAN TOKER is created
+2021-02-06 17:09:19,605 - INFO - Poll_2W4-3_Object_Orientation output for student OĞUZHAN TOKER is created
+2021-02-06 17:09:19,606 - INFO - Poll_1OOSD_Software_Activities output for student OĞUZHAN TOKER is created
+2021-02-06 17:09:19,631 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ORHAN FATİH BAYAZIT is created
+2021-02-06 17:09:19,632 - INFO - Poll_7W4-3_OO output for student ORHAN FATİH BAYAZIT is created
+2021-02-06 17:09:19,634 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ORHAN FATİH BAYAZIT is created
+2021-02-06 17:09:19,635 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ORHAN FATİH BAYAZIT is created
+2021-02-06 17:09:19,636 - INFO - Poll_4Week_3 output for student ORHAN FATİH BAYAZIT is created
+2021-02-06 17:09:19,637 - INFO - Poll_1OOSD_Software_Activities output for student ORHAN FATİH BAYAZIT is created
+2021-02-06 17:09:19,638 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student OSMAN ERİKCİ is created
+2021-02-06 17:09:19,639 - INFO - Poll_7W4-3_OO output for student OSMAN ERİKCİ is created
+2021-02-06 17:09:19,641 - INFO - Poll_13W8-1_Iteration_Artifacts output for student OSMAN ERİKCİ is created
+2021-02-06 17:09:19,642 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student OSMAN ERİKCİ is created
+2021-02-06 17:09:19,642 - INFO - Poll_4Week_3 output for student OSMAN ERİKCİ is created
+2021-02-06 17:09:19,644 - INFO - Poll_2W4-3_Object_Orientation output for student OSMAN ERİKCİ is created
+2021-02-06 17:09:19,645 - INFO - Poll_1OOSD_Software_Activities output for student OSMAN ERİKCİ is created
+2021-02-06 17:09:19,646 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student OZAN YERLİ is created
+2021-02-06 17:09:19,647 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student OZAN YERLİ is created
+2021-02-06 17:09:19,648 - INFO - Poll_7W4-3_OO output for student OZAN YERLİ is created
+2021-02-06 17:09:19,650 - INFO - Poll_13W8-1_Iteration_Artifacts output for student OZAN YERLİ is created
+2021-02-06 17:09:19,651 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student OZAN YERLİ is created
+2021-02-06 17:09:19,652 - INFO - Poll_4Week_3 output for student OZAN YERLİ is created
+2021-02-06 17:09:19,653 - INFO - Poll_2W4-3_Object_Orientation output for student OZAN YERLİ is created
+2021-02-06 17:09:19,654 - INFO - Poll_1OOSD_Software_Activities output for student OZAN YERLİ is created
+2021-02-06 17:09:19,655 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ÖMER ERKAN is created
+2021-02-06 17:09:19,656 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ÖMER ERKAN is created
+2021-02-06 17:09:19,657 - INFO - Poll_7W4-3_OO output for student ÖMER ERKAN is created
+2021-02-06 17:09:19,659 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ÖMER ERKAN is created
+2021-02-06 17:09:19,660 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ÖMER ERKAN is created
+2021-02-06 17:09:19,661 - INFO - Poll_4Week_3 output for student ÖMER ERKAN is created
+2021-02-06 17:09:19,662 - INFO - Poll_2W4-3_Object_Orientation output for student ÖMER ERKAN is created
+2021-02-06 17:09:19,663 - INFO - Poll_1OOSD_Software_Activities output for student ÖMER ERKAN is created
+2021-02-06 17:09:19,664 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ÖMER ÖZTÜRK is created
+2021-02-06 17:09:19,666 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ÖMER ÖZTÜRK is created
+2021-02-06 17:09:19,667 - INFO - Poll_7W4-3_OO output for student ÖMER ÖZTÜRK is created
+2021-02-06 17:09:19,668 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ÖMER ÖZTÜRK is created
+2021-02-06 17:09:19,669 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ÖMER ÖZTÜRK is created
+2021-02-06 17:09:19,671 - INFO - Poll_2W4-3_Object_Orientation output for student ÖMER ÖZTÜRK is created
+2021-02-06 17:09:19,671 - INFO - Poll_1OOSD_Software_Activities output for student ÖMER ÖZTÜRK is created
+2021-02-06 17:09:19,672 - INFO - Poll_7W4-3_OO output for student RABIUL ISLAM is created
+2021-02-06 17:09:19,674 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student REHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,675 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student REHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,676 - INFO - Poll_7W4-3_OO output for student REHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,678 - INFO - Poll_13W8-1_Iteration_Artifacts output for student REHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,679 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student REHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,680 - INFO - Poll_4Week_3 output for student REHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,680 - INFO - Poll_1OOSD_Software_Activities output for student REHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,682 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student RIDVAN SAN is created
+2021-02-06 17:09:19,683 - INFO - Poll_7W4-3_OO output for student RIDVAN SAN is created
+2021-02-06 17:09:19,685 - INFO - Poll_13W8-1_Iteration_Artifacts output for student RIDVAN SAN is created
+2021-02-06 17:09:19,686 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student RIDVAN SAN is created
+2021-02-06 17:09:19,687 - INFO - Poll_2W4-3_Object_Orientation output for student RIDVAN SAN is created
+2021-02-06 17:09:19,688 - INFO - Poll_1OOSD_Software_Activities output for student RIDVAN SAN is created
+2021-02-06 17:09:19,689 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student RÜMEYSA ÖZTÜRK is created
+2021-02-06 17:09:19,690 - INFO - Poll_7W4-3_OO output for student RÜMEYSA ÖZTÜRK is created
+2021-02-06 17:09:19,692 - INFO - Poll_13W8-1_Iteration_Artifacts output for student RÜMEYSA ÖZTÜRK is created
+2021-02-06 17:09:19,693 - INFO - Poll_4Week_3 output for student RÜMEYSA ÖZTÜRK is created
+2021-02-06 17:09:19,693 - INFO - Poll_1OOSD_Software_Activities output for student RÜMEYSA ÖZTÜRK is created
+2021-02-06 17:09:19,695 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SAMEEH N. O. KUNBARGI is created
+2021-02-06 17:09:19,696 - INFO - Poll_7W4-3_OO output for student SAMEEH N. O. KUNBARGI is created
+2021-02-06 17:09:19,697 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student SAMEEH N. O. KUNBARGI is created
+2021-02-06 17:09:19,698 - INFO - Poll_2W4-3_Object_Orientation output for student SAMEEH N. O. KUNBARGI is created
+2021-02-06 17:09:19,699 - INFO - Poll_1OOSD_Software_Activities output for student SAMEEH N. O. KUNBARGI is created
+2021-02-06 17:09:19,700 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SEDANUR KARA is created
+2021-02-06 17:09:19,701 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SEDANUR KARA is created
+2021-02-06 17:09:19,702 - INFO - Poll_7W4-3_OO output for student SEDANUR KARA is created
+2021-02-06 17:09:19,704 - INFO - Poll_13W8-1_Iteration_Artifacts output for student SEDANUR KARA is created
+2021-02-06 17:09:19,705 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student SEDANUR KARA is created
+2021-02-06 17:09:19,706 - INFO - Poll_4Week_3 output for student SEDANUR KARA is created
+2021-02-06 17:09:19,707 - INFO - Poll_1OOSD_Software_Activities output for student SEDANUR KARA is created
+2021-02-06 17:09:19,708 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SELAHATTİN HÜSMEN is created
+2021-02-06 17:09:19,709 - INFO - Poll_7W4-3_OO output for student SELAHATTİN HÜSMEN is created
+2021-02-06 17:09:19,711 - INFO - Poll_13W8-1_Iteration_Artifacts output for student SELAHATTİN HÜSMEN is created
+2021-02-06 17:09:19,712 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student SELAHATTİN HÜSMEN is created
+2021-02-06 17:09:19,712 - INFO - Poll_4Week_3 output for student SELAHATTİN HÜSMEN is created
+2021-02-06 17:09:19,714 - INFO - Poll_2W4-3_Object_Orientation output for student SELAHATTİN HÜSMEN is created
+2021-02-06 17:09:19,715 - INFO - Poll_1OOSD_Software_Activities output for student SELAHATTİN HÜSMEN is created
+2021-02-06 17:09:19,716 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SELİMHAN ÇAKIR is created
+2021-02-06 17:09:19,717 - INFO - Poll_4Week_3 output for student SELİMHAN ÇAKIR is created
+2021-02-06 17:09:19,718 - INFO - Poll_2W4-3_Object_Orientation output for student SELİMHAN ÇAKIR is created
+2021-02-06 17:09:19,719 - INFO - Poll_1OOSD_Software_Activities output for student SELİMHAN ÇAKIR is created
+2021-02-06 17:09:19,720 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SERKAN EROL is created
+2021-02-06 17:09:19,722 - INFO - Poll_13W8-1_Iteration_Artifacts output for student SERKAN EROL is created
+2021-02-06 17:09:19,723 - INFO - Poll_4Week_3 output for student SERKAN EROL is created
+2021-02-06 17:09:19,724 - INFO - Poll_2W4-3_Object_Orientation output for student SERKAN EROL is created
+2021-02-06 17:09:19,725 - INFO - Poll_1OOSD_Software_Activities output for student SERKAN EROL is created
+2021-02-06 17:09:19,726 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SERKAN HELVACIOĞLU is created
+2021-02-06 17:09:19,728 - INFO - Poll_7W4-3_OO output for student SERKAN HELVACIOĞLU is created
+2021-02-06 17:09:19,729 - INFO - Poll_13W8-1_Iteration_Artifacts output for student SERKAN HELVACIOĞLU is created
+2021-02-06 17:09:19,730 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student SERKAN HELVACIOĞLU is created
+2021-02-06 17:09:19,731 - INFO - Poll_4Week_3 output for student SERKAN HELVACIOĞLU is created
+2021-02-06 17:09:19,732 - INFO - Poll_2W4-3_Object_Orientation output for student SERKAN HELVACIOĞLU is created
+2021-02-06 17:09:19,733 - INFO - Poll_1OOSD_Software_Activities output for student SERKAN HELVACIOĞLU is created
+2021-02-06 17:09:19,734 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SHAHZODAKHON RUSTAMOVA is created
+2021-02-06 17:09:19,736 - INFO - Poll_7W4-3_OO output for student SHAHZODAKHON RUSTAMOVA is created
+2021-02-06 17:09:19,737 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student SHAHZODAKHON RUSTAMOVA is created
+2021-02-06 17:09:19,737 - INFO - Poll_4Week_3 output for student SHAHZODAKHON RUSTAMOVA is created
+2021-02-06 17:09:19,739 - INFO - Poll_2W4-3_Object_Orientation output for student SHAHZODAKHON RUSTAMOVA is created
+2021-02-06 17:09:19,739 - INFO - Poll_1OOSD_Software_Activities output for student SHAHZODAKHON RUSTAMOVA is created
+2021-02-06 17:09:19,741 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SİNAN BURAK ÖZTÜRK is created
+2021-02-06 17:09:19,742 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SİNAN BURAK ÖZTÜRK is created
+2021-02-06 17:09:19,743 - INFO - Poll_7W4-3_OO output for student SİNAN BURAK ÖZTÜRK is created
+2021-02-06 17:09:19,744 - INFO - Poll_4Week_3 output for student SİNAN BURAK ÖZTÜRK is created
+2021-02-06 17:09:19,745 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SİNEM ONAL is created
+2021-02-06 17:09:19,746 - INFO - Poll_7W4-3_OO output for student SİNEM ONAL is created
+2021-02-06 17:09:19,748 - INFO - Poll_13W8-1_Iteration_Artifacts output for student SİNEM ONAL is created
+2021-02-06 17:09:19,749 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student SİNEM ONAL is created
+2021-02-06 17:09:19,750 - INFO - Poll_4Week_3 output for student SİNEM ONAL is created
+2021-02-06 17:09:19,751 - INFO - Poll_2W4-3_Object_Orientation output for student SİNEM ONAL is created
+2021-02-06 17:09:19,752 - INFO - Poll_1OOSD_Software_Activities output for student SİNEM ONAL is created
+2021-02-06 17:09:19,753 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SİNEM CEREN KONTAŞ is created
+2021-02-06 17:09:19,754 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SİNEM CEREN KONTAŞ is created
+2021-02-06 17:09:19,755 - INFO - Poll_7W4-3_OO output for student SİNEM CEREN KONTAŞ is created
+2021-02-06 17:09:19,757 - INFO - Poll_13W8-1_Iteration_Artifacts output for student SİNEM CEREN KONTAŞ is created
+2021-02-06 17:09:19,758 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student SİNEM CEREN KONTAŞ is created
+2021-02-06 17:09:19,759 - INFO - Poll_4Week_3 output for student SİNEM CEREN KONTAŞ is created
+2021-02-06 17:09:19,760 - INFO - Poll_2W4-3_Object_Orientation output for student SİNEM CEREN KONTAŞ is created
+2021-02-06 17:09:19,761 - INFO - Poll_1OOSD_Software_Activities output for student SİNEM CEREN KONTAŞ is created
+2021-02-06 17:09:19,762 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SUEDA BİLEN is created
+2021-02-06 17:09:19,764 - INFO - Poll_7W4-3_OO output for student SUEDA BİLEN is created
+2021-02-06 17:09:19,765 - INFO - Poll_13W8-1_Iteration_Artifacts output for student SUEDA BİLEN is created
+2021-02-06 17:09:19,766 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student SUEDA BİLEN is created
+2021-02-06 17:09:19,767 - INFO - Poll_4Week_3 output for student SUEDA BİLEN is created
+2021-02-06 17:09:19,768 - INFO - Poll_2W4-3_Object_Orientation output for student SUEDA BİLEN is created
+2021-02-06 17:09:19,769 - INFO - Poll_1OOSD_Software_Activities output for student SUEDA BİLEN is created
+2021-02-06 17:09:19,770 - INFO - Poll_7W4-3_OO output for student SÜLEYMAN AHMET SÖNMEZ is created
+2021-02-06 17:09:19,772 - INFO - Poll_13W8-1_Iteration_Artifacts output for student SÜLEYMAN AHMET SÖNMEZ is created
+2021-02-06 17:09:19,773 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student SÜLEYMAN AHMET SÖNMEZ is created
+2021-02-06 17:09:19,774 - INFO - Poll_4Week_3 output for student SÜLEYMAN AHMET SÖNMEZ is created
+2021-02-06 17:09:19,774 - INFO - Poll_1OOSD_Software_Activities output for student SÜLEYMAN AHMET SÖNMEZ is created
+2021-02-06 17:09:19,776 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ŞEREF KUTAY AKGÜN is created
+2021-02-06 17:09:19,777 - INFO - Poll_7W4-3_OO output for student ŞEREF KUTAY AKGÜN is created
+2021-02-06 17:09:19,778 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ŞEREF KUTAY AKGÜN is created
+2021-02-06 17:09:19,779 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ŞEREF KUTAY AKGÜN is created
+2021-02-06 17:09:19,781 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ŞÜKRİYE SOYER is created
+2021-02-06 17:09:19,782 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ŞÜKRİYE SOYER is created
+2021-02-06 17:09:19,783 - INFO - Poll_7W4-3_OO output for student ŞÜKRİYE SOYER is created
+2021-02-06 17:09:19,785 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ŞÜKRİYE SOYER is created
+2021-02-06 17:09:19,786 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ŞÜKRİYE SOYER is created
+2021-02-06 17:09:19,786 - INFO - Poll_4Week_3 output for student ŞÜKRİYE SOYER is created
+2021-02-06 17:09:19,788 - INFO - Poll_2W4-3_Object_Orientation output for student ŞÜKRİYE SOYER is created
+2021-02-06 17:09:19,788 - INFO - Poll_1OOSD_Software_Activities output for student ŞÜKRİYE SOYER is created
+2021-02-06 17:09:19,790 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TAHA KIZMAZ is created
+2021-02-06 17:09:19,791 - INFO - Poll_7W4-3_OO output for student TAHA KIZMAZ is created
+2021-02-06 17:09:19,793 - INFO - Poll_13W8-1_Iteration_Artifacts output for student TAHA KIZMAZ is created
+2021-02-06 17:09:19,794 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student TAHA KIZMAZ is created
+2021-02-06 17:09:19,794 - INFO - Poll_4Week_3 output for student TAHA KIZMAZ is created
+2021-02-06 17:09:19,796 - INFO - Poll_2W4-3_Object_Orientation output for student TAHA KIZMAZ is created
+2021-02-06 17:09:19,797 - INFO - Poll_1OOSD_Software_Activities output for student TAHA KIZMAZ is created
+2021-02-06 17:09:19,798 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TAHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,799 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TAHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,800 - INFO - Poll_7W4-3_OO output for student TAHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,802 - INFO - Poll_13W8-1_Iteration_Artifacts output for student TAHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,803 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student TAHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,804 - INFO - Poll_2W4-3_Object_Orientation output for student TAHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,805 - INFO - Poll_1OOSD_Software_Activities output for student TAHA ÜZÜMCÜ is created
+2021-02-06 17:09:19,806 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TAHA ABDULSALAM SARHEED is created
+2021-02-06 17:09:19,807 - INFO - Poll_7W4-3_OO output for student TAHA ABDULSALAM SARHEED is created
+2021-02-06 17:09:19,809 - INFO - Poll_13W8-1_Iteration_Artifacts output for student TAHA ABDULSALAM SARHEED is created
+2021-02-06 17:09:19,810 - INFO - Poll_4Week_3 output for student TAHA ABDULSALAM SARHEED is created
+2021-02-06 17:09:19,811 - INFO - Poll_2W4-3_Object_Orientation output for student TAHA ABDULSALAM SARHEED is created
+2021-02-06 17:09:19,813 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TAHA CEVHER NANECİ is created
+2021-02-06 17:09:19,814 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TAHA CEVHER NANECİ is created
+2021-02-06 17:09:19,815 - INFO - Poll_7W4-3_OO output for student TAHA CEVHER NANECİ is created
+2021-02-06 17:09:19,816 - INFO - Poll_2W4-3_Object_Orientation output for student TAHA CEVHER NANECİ is created
+2021-02-06 17:09:19,817 - INFO - Poll_1OOSD_Software_Activities output for student TAHA CEVHER NANECİ is created
+2021-02-06 17:09:19,819 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TAHA ENES UZUN is created
+2021-02-06 17:09:19,820 - INFO - Poll_7W4-3_OO output for student TAHA ENES UZUN is created
+2021-02-06 17:09:19,821 - INFO - Poll_13W8-1_Iteration_Artifacts output for student TAHA ENES UZUN is created
+2021-02-06 17:09:19,822 - INFO - Poll_4Week_3 output for student TAHA ENES UZUN is created
+2021-02-06 17:09:19,824 - INFO - Poll_2W4-3_Object_Orientation output for student TAHA ENES UZUN is created
+2021-02-06 17:09:19,825 - INFO - Poll_1OOSD_Software_Activities output for student TAHA ENES UZUN is created
+2021-02-06 17:09:19,826 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TALHA BAYBURTLU is created
+2021-02-06 17:09:19,827 - INFO - Poll_7W4-3_OO output for student TALHA BAYBURTLU is created
+2021-02-06 17:09:19,829 - INFO - Poll_13W8-1_Iteration_Artifacts output for student TALHA BAYBURTLU is created
+2021-02-06 17:09:19,830 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student TALHA BAYBURTLU is created
+2021-02-06 17:09:19,830 - INFO - Poll_4Week_3 output for student TALHA BAYBURTLU is created
+2021-02-06 17:09:19,832 - INFO - Poll_2W4-3_Object_Orientation output for student TALHA BAYBURTLU is created
+2021-02-06 17:09:19,833 - INFO - Poll_1OOSD_Software_Activities output for student TALHA BAYBURTLU is created
+2021-02-06 17:09:19,834 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TAYLAN ROJEN DÖĞER is created
+2021-02-06 17:09:19,835 - INFO - Poll_7W4-3_OO output for student TAYLAN ROJEN DÖĞER is created
+2021-02-06 17:09:19,837 - INFO - Poll_13W8-1_Iteration_Artifacts output for student TAYLAN ROJEN DÖĞER is created
+2021-02-06 17:09:19,838 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student TAYLAN ROJEN DÖĞER is created
+2021-02-06 17:09:19,838 - INFO - Poll_4Week_3 output for student TAYLAN ROJEN DÖĞER is created
+2021-02-06 17:09:19,840 - INFO - Poll_2W4-3_Object_Orientation output for student TAYLAN ROJEN DÖĞER is created
+2021-02-06 17:09:19,841 - INFO - Poll_1OOSD_Software_Activities output for student TAYLAN ROJEN DÖĞER is created
+2021-02-06 17:09:19,842 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TUGAY SARICI is created
+2021-02-06 17:09:19,843 - INFO - Poll_7W4-3_OO output for student TUGAY SARICI is created
+2021-02-06 17:09:19,845 - INFO - Poll_13W8-1_Iteration_Artifacts output for student TUGAY SARICI is created
+2021-02-06 17:09:19,846 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student TUGAY SARICI is created
+2021-02-06 17:09:19,847 - INFO - Poll_4Week_3 output for student TUGAY SARICI is created
+2021-02-06 17:09:19,848 - INFO - Poll_2W4-3_Object_Orientation output for student TUGAY SARICI is created
+2021-02-06 17:09:19,849 - INFO - Poll_1OOSD_Software_Activities output for student TUGAY SARICI is created
+2021-02-06 17:09:19,850 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TUNAHAN AYDIN is created
+2021-02-06 17:09:19,851 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TUNAHAN AYDIN is created
+2021-02-06 17:09:19,852 - INFO - Poll_7W4-3_OO output for student TUNAHAN AYDIN is created
+2021-02-06 17:09:19,854 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student TURGUT KURAL is created
+2021-02-06 17:09:19,855 - INFO - Poll_7W4-3_OO output for student TURGUT KURAL is created
+2021-02-06 17:09:19,856 - INFO - Poll_13W8-1_Iteration_Artifacts output for student TURGUT KURAL is created
+2021-02-06 17:09:19,858 - INFO - Poll_4Week_3 output for student TURGUT KURAL is created
+2021-02-06 17:09:19,859 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student UBEYDULLAH FİKRİ GÜNAY is created
+2021-02-06 17:09:19,860 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student UBEYDULLAH FİKRİ GÜNAY is created
+2021-02-06 17:09:19,861 - INFO - Poll_7W4-3_OO output for student UBEYDULLAH FİKRİ GÜNAY is created
+2021-02-06 17:09:19,863 - INFO - Poll_13W8-1_Iteration_Artifacts output for student UBEYDULLAH FİKRİ GÜNAY is created
+2021-02-06 17:09:19,864 - INFO - Poll_2W4-3_Object_Orientation output for student UBEYDULLAH FİKRİ GÜNAY is created
+2021-02-06 17:09:19,866 - INFO - Poll_13W8-1_Iteration_Artifacts output for student UMER SELMANI is created
+2021-02-06 17:09:19,867 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student UMER SELMANI is created
+2021-02-06 17:09:19,868 - INFO - Poll_4Week_3 output for student UMER SELMANI is created
+2021-02-06 17:09:19,869 - INFO - Poll_2W4-3_Object_Orientation output for student UMER SELMANI is created
+2021-02-06 17:09:19,871 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student UMUT BAYRAM is created
+2021-02-06 17:09:19,872 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student UMUT BAYRAM is created
+2021-02-06 17:09:19,873 - INFO - Poll_7W4-3_OO output for student UMUT BAYRAM is created
+2021-02-06 17:09:19,875 - INFO - Poll_13W8-1_Iteration_Artifacts output for student UMUT BAYRAM is created
+2021-02-06 17:09:19,876 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student UMUT BAYRAM is created
+2021-02-06 17:09:19,877 - INFO - Poll_4Week_3 output for student UMUT BAYRAM is created
+2021-02-06 17:09:19,878 - INFO - Poll_2W4-3_Object_Orientation output for student UMUT BAYRAM is created
+2021-02-06 17:09:19,879 - INFO - Poll_1OOSD_Software_Activities output for student UMUT BAYRAM is created
+2021-02-06 17:09:19,880 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student VAHAP GÖZENELİOĞLU is created
+2021-02-06 17:09:19,882 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student VAHAP GÖZENELİOĞLU is created
+2021-02-06 17:09:19,883 - INFO - Poll_7W4-3_OO output for student VAHAP GÖZENELİOĞLU is created
+2021-02-06 17:09:19,884 - INFO - Poll_13W8-1_Iteration_Artifacts output for student VAHAP GÖZENELİOĞLU is created
+2021-02-06 17:09:19,886 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student VAHAP GÖZENELİOĞLU is created
+2021-02-06 17:09:19,886 - INFO - Poll_4Week_3 output for student VAHAP GÖZENELİOĞLU is created
+2021-02-06 17:09:19,888 - INFO - Poll_2W4-3_Object_Orientation output for student VAHAP GÖZENELİOĞLU is created
+2021-02-06 17:09:19,889 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student VEYSİ ÖZ is created
+2021-02-06 17:09:19,890 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student VEYSİ ÖZ is created
+2021-02-06 17:09:19,891 - INFO - Poll_7W4-3_OO output for student VEYSİ ÖZ is created
+2021-02-06 17:09:19,893 - INFO - Poll_13W8-1_Iteration_Artifacts output for student VEYSİ ÖZ is created
+2021-02-06 17:09:19,894 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student VEYSİ ÖZ is created
+2021-02-06 17:09:19,895 - INFO - Poll_4Week_3 output for student VEYSİ ÖZ is created
+2021-02-06 17:09:19,896 - INFO - Poll_2W4-3_Object_Orientation output for student VEYSİ ÖZ is created
+2021-02-06 17:09:19,897 - INFO - Poll_1OOSD_Software_Activities output for student VEYSİ ÖZ is created
+2021-02-06 17:09:19,898 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student YASİN ÖZDEMİR is created
+2021-02-06 17:09:19,900 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student YASİN ÖZDEMİR is created
+2021-02-06 17:09:19,901 - INFO - Poll_7W4-3_OO output for student YASİN ÖZDEMİR is created
+2021-02-06 17:09:19,903 - INFO - Poll_13W8-1_Iteration_Artifacts output for student YASİN ÖZDEMİR is created
+2021-02-06 17:09:19,904 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student YASİN ÖZDEMİR is created
+2021-02-06 17:09:19,905 - INFO - Poll_2W4-3_Object_Orientation output for student YASİN ÖZDEMİR is created
+2021-02-06 17:09:19,906 - INFO - Poll_7W4-3_OO output for student YUNUS YILDIRIM is created
+2021-02-06 17:09:19,908 - INFO - Poll_13W8-1_Iteration_Artifacts output for student YUNUS YILDIRIM is created
+2021-02-06 17:09:19,909 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student YUNUS YILDIRIM is created
+2021-02-06 17:09:19,910 - INFO - Poll_4Week_3 output for student YUNUS YILDIRIM is created
+2021-02-06 17:09:19,911 - INFO - Poll_2W4-3_Object_Orientation output for student YUNUS YILDIRIM is created
+2021-02-06 17:09:19,912 - INFO - Poll_1OOSD_Software_Activities output for student YUNUS YILDIRIM is created
+2021-02-06 17:09:19,913 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student YUNUS AHMED STAHLSCHMİDT is created
+2021-02-06 17:09:19,915 - INFO - Poll_13W8-1_Iteration_Artifacts output for student YUNUS AHMED STAHLSCHMİDT is created
+2021-02-06 17:09:19,916 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student YUNUS AHMED STAHLSCHMİDT is created
+2021-02-06 17:09:19,917 - INFO - Poll_4Week_3 output for student YUNUS AHMED STAHLSCHMİDT is created
+2021-02-06 17:09:19,918 - INFO - Poll_2W4-3_Object_Orientation output for student YUNUS AHMED STAHLSCHMİDT is created
+2021-02-06 17:09:19,919 - INFO - Poll_1OOSD_Software_Activities output for student YUNUS AHMED STAHLSCHMİDT is created
+2021-02-06 17:09:19,920 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student YUNUS EMRE ERTUNÇ is created
+2021-02-06 17:09:19,921 - INFO - Poll_7W4-3_OO output for student YUNUS EMRE ERTUNÇ is created
+2021-02-06 17:09:19,923 - INFO - Poll_13W8-1_Iteration_Artifacts output for student YUNUS EMRE ERTUNÇ is created
+2021-02-06 17:09:19,924 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student YUNUS EMRE ERTUNÇ is created
+2021-02-06 17:09:19,925 - INFO - Poll_4Week_3 output for student YUNUS EMRE ERTUNÇ is created
+2021-02-06 17:09:19,926 - INFO - Poll_2W4-3_Object_Orientation output for student YUNUS EMRE ERTUNÇ is created
+2021-02-06 17:09:19,927 - INFO - Poll_1OOSD_Software_Activities output for student YUNUS EMRE ERTUNÇ is created
+2021-02-06 17:09:19,928 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student YUSUF TALHA ERDEM is created
+2021-02-06 17:09:19,930 - INFO - Poll_7W4-3_OO output for student YUSUF TALHA ERDEM is created
+2021-02-06 17:09:19,931 - INFO - Poll_13W8-1_Iteration_Artifacts output for student YUSUF TALHA ERDEM is created
+2021-02-06 17:09:19,932 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student YUSUF TALHA ERDEM is created
+2021-02-06 17:09:19,933 - INFO - Poll_4Week_3 output for student YUSUF TALHA ERDEM is created
+2021-02-06 17:09:19,934 - INFO - Poll_2W4-3_Object_Orientation output for student YUSUF TALHA ERDEM is created
+2021-02-06 17:09:19,935 - INFO - Poll_1OOSD_Software_Activities output for student YUSUF TALHA ERDEM is created
+2021-02-06 17:09:19,937 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ZEHRA KURU is created
+2021-02-06 17:09:19,938 - INFO - Poll_7W4-3_OO output for student ZEHRA KURU is created
+2021-02-06 17:09:19,939 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ZEHRA KURU is created
+2021-02-06 17:09:19,940 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ZEHRA KURU is created
+2021-02-06 17:09:19,941 - INFO - Poll_4Week_3 output for student ZEHRA KURU is created
+2021-02-06 17:09:19,942 - INFO - Poll_2W4-3_Object_Orientation output for student ZEHRA KURU is created
+2021-02-06 17:09:19,943 - INFO - Poll_1OOSD_Software_Activities output for student ZEHRA KURU is created
+2021-02-06 17:09:19,945 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ZEKERİYA BATUHAN KARATAŞ is created
+2021-02-06 17:09:19,946 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ZEKERİYA BATUHAN KARATAŞ is created
+2021-02-06 17:09:19,947 - INFO - Poll_7W4-3_OO output for student ZEKERİYA BATUHAN KARATAŞ is created
+2021-02-06 17:09:19,949 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ZEKERİYA BATUHAN KARATAŞ is created
+2021-02-06 17:09:19,950 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ZEKERİYA BATUHAN KARATAŞ is created
+2021-02-06 17:09:19,950 - INFO - Poll_4Week_3 output for student ZEKERİYA BATUHAN KARATAŞ is created
+2021-02-06 17:09:19,952 - INFO - Poll_2W4-3_Object_Orientation output for student ZEKERİYA BATUHAN KARATAŞ is created
+2021-02-06 17:09:19,953 - INFO - Poll_1OOSD_Software_Activities output for student ZEKERİYA BATUHAN KARATAŞ is created
+2021-02-06 17:09:19,954 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ZEYNEP ALICI is created
+2021-02-06 17:09:19,956 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ZEYNEP ALICI is created
+2021-02-06 17:09:19,957 - INFO - Poll_7W4-3_OO output for student ZEYNEP ALICI is created
+2021-02-06 17:09:19,959 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ZEYNEP ALICI is created
+2021-02-06 17:09:19,960 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ZEYNEP ALICI is created
+2021-02-06 17:09:19,960 - INFO - Poll_4Week_3 output for student ZEYNEP ALICI is created
+2021-02-06 17:09:19,961 - INFO - Poll_1OOSD_Software_Activities output for student ZEYNEP ALICI is created
+2021-02-06 17:09:19,962 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ZEYNEP FERAH AKKURT is created
+2021-02-06 17:09:19,964 - INFO - Poll_7W4-3_OO output for student ZEYNEP FERAH AKKURT is created
+2021-02-06 17:09:19,965 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ZEYNEP FERAH AKKURT is created
+2021-02-06 17:09:19,966 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ZEYNEP FERAH AKKURT is created
+2021-02-06 17:09:19,967 - INFO - Poll_4Week_3 output for student ZEYNEP FERAH AKKURT is created
+2021-02-06 17:09:19,968 - INFO - Poll_2W4-3_Object_Orientation output for student ZEYNEP FERAH AKKURT is created
+2021-02-06 17:09:19,969 - INFO - Poll_1OOSD_Software_Activities output for student ZEYNEP FERAH AKKURT is created
+2021-02-06 17:09:19,971 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ZEYNEP NAZ AKYOKUŞ is created
+2021-02-06 17:09:19,972 - INFO - Poll_7W4-3_OO output for student ZEYNEP NAZ AKYOKUŞ is created
+2021-02-06 17:09:19,973 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ZEYNEP NAZ AKYOKUŞ is created
+2021-02-06 17:09:19,974 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ZEYNEP NAZ AKYOKUŞ is created
+2021-02-06 17:09:19,976 - INFO - Poll_4Week_3 output for student ZEYNEP NAZ AKYOKUŞ is created
+2021-02-06 17:09:19,977 - INFO - Poll_2W4-3_Object_Orientation output for student ZEYNEP NAZ AKYOKUŞ is created
+2021-02-06 17:09:19,978 - INFO - Poll_1OOSD_Software_Activities output for student ZEYNEP NAZ AKYOKUŞ is created
+2021-02-06 17:09:19,979 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ZÜLKÜF ORHUN ÖZKAYA is created
+2021-02-06 17:09:19,980 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student ZÜLKÜF ORHUN ÖZKAYA is created
+2021-02-06 17:09:19,982 - INFO - Poll_7W4-3_OO output for student ZÜLKÜF ORHUN ÖZKAYA is created
+2021-02-06 17:09:19,983 - INFO - Poll_2About_Object_Oriented_Programming_1 output for student ZÜLKÜF ORHUN ÖZKAYA is created
+2021-02-06 17:09:19,983 - INFO - Poll_4Week_3 output for student ZÜLKÜF ORHUN ÖZKAYA is created
+2021-02-06 17:09:19,985 - INFO - Poll_2W4-3_Object_Orientation output for student ZÜLKÜF ORHUN ÖZKAYA is created
+2021-02-06 17:09:19,985 - INFO - Poll_1OOSD_Software_Activities output for student ZÜLKÜF ORHUN ÖZKAYA is created
+2021-02-06 17:09:19,987 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BELGİN TAŞTAN is created
+2021-02-06 17:09:19,988 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student BELGİN TAŞTAN is created
+2021-02-06 17:09:19,989 - INFO - Poll_7W4-3_OO output for student BELGİN TAŞTAN is created
+2021-02-06 17:09:19,991 - INFO - Poll_13W8-1_Iteration_Artifacts output for student BELGİN TAŞTAN is created
+2021-02-06 17:09:19,992 - INFO - Poll_4Week_3 output for student BELGİN TAŞTAN is created
+2021-02-06 17:09:19,993 - INFO - Poll_2W4-3_Object_Orientation output for student BELGİN TAŞTAN is created
+2021-02-06 17:09:19,994 - INFO - Poll_1OOSD_Software_Activities output for student BELGİN TAŞTAN is created
+2021-02-06 17:09:19,995 - INFO - Poll_7W4-3_OO output for student ELİF SÜNNETCİ is created
+2021-02-06 17:09:19,997 - INFO - Poll_13W8-1_Iteration_Artifacts output for student ELİF SÜNNETCİ is created
+2021-02-06 17:09:19,998 - INFO - Poll_2W4-3_Object_Orientation output for student ELİF SÜNNETCİ is created
+2021-02-06 17:09:20,000 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SEVDENUR GENÇ is created
+2021-02-06 17:09:20,001 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student SEVDENUR GENÇ is created
+2021-02-06 17:09:20,002 - INFO - Poll_7W4-3_OO output for student SEVDENUR GENÇ is created
+2021-02-06 17:09:20,004 - INFO - Poll_13W8-1_Iteration_Artifacts output for student SEVDENUR GENÇ is created
+2021-02-06 17:09:20,005 - INFO - Poll_5W4-1_Soft._Dev._Activities output for student MEHMET TARIK DÜZ is created
+2021-02-06 17:09:20,006 - INFO - Poll_2W4-3_Object_Orientation output for student MEHMET TARIK DÜZ is created
+2021-02-06 17:09:22,183 - INFO - Pie chart created for poll Poll_5W4-1_Soft._Dev._Activities
+2021-02-06 17:09:22,317 - INFO - Pie chart created for poll Poll_7W4-3_OO
+2021-02-06 17:09:22,396 - INFO - Pie chart created for poll Poll_13W8-1_Iteration_Artifacts
+2021-02-06 17:09:22,540 - INFO - Pie chart created for poll Poll_2About_Object_Oriented_Programming_1
+2021-02-06 17:09:22,576 - INFO - Pie chart created for poll Poll_4Week_3
+2021-02-06 17:09:22,606 - INFO - Pie chart created for poll Poll_2W4-3_Object_Orientation
+2021-02-06 17:09:22,744 - INFO - Pie chart created for poll Poll_1OOSD_Software_Activities
